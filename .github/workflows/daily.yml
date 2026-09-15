@@ -255,3 +255,11 @@ jobs:
           publish_branch: gh-pages
           keep_files: false  # we restored everything above, so a clean publish is fine
           commit_message: 'daily: report for ${{ github.run_id }}'
+      - name: Push to Server酱 (WeChat)
+        env:
+          SERVERCHAN_API_URL: ${{ secrets.SERVERCHAN_API_URL }}
+          SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
+          REPORT_URL: ${{ vars.REPORT_URL }}
+          REPORT_TZ: ${{ vars.REPORT_TZ }}
+        continue-on-error: true          # 推送失败不拖垮整个 workflow
+        run: node scripts/push-serverchan.mjs
