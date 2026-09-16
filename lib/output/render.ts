@@ -31,6 +31,7 @@ const TEXTS_ZH = {
   catTrading: "市场行情",
   catCommunity: "社区讨论",
   subAiNews: "AI 媒体",
+  subJensen: "黄仁勋 · NVIDIA",
   subTrendingPapers: "热门论文",
   subXViral: "X 推文",
   subBlogWeekly: "博客周刊",
@@ -80,6 +81,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   catTrading: "Markets",
   catCommunity: "Community",
   subAiNews: "AI Media",
+  subJensen: "Jensen Huang · NVIDIA",
   subTrendingPapers: "Trending Papers",
   subXViral: "X Viral",
   subBlogWeekly: "Blog Weekly",
@@ -171,12 +173,12 @@ const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
   // Locale filtering at registry level decides which actually appears:
   // zh mode keeps cn-community (V2EX / LinuxDo); en mode keeps
   // overseas-community (Hacker News / r/stocks).
-  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community"],
+  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "jensen", "cn-community", "overseas-community"],
   finance: ["news"],
   politics: ["world"],
 };
 
-const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
+const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news", "jensen"]);
 const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
 
 const SUBCATEGORY_LABELS: Record<string, string> = {
@@ -185,6 +187,7 @@ const SUBCATEGORY_LABELS: Record<string, string> = {
   "cn-community": STR.subCnCommunity,
   "overseas-community": STR.subOverseasCommunity,
   "ai-news": STR.subAiNews,
+  jensen: STR.subJensen,
   "x-viral": STR.subXViral,
   "blog-weekly": STR.subBlogWeekly,
   news: STR.subFinanceNews,
@@ -240,6 +243,10 @@ function displayLimitFor(
  */
 export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
   "tech:ai-news": 15,
+  // Huang/NVIDIA tracker: official blog + two Google News keyword feeds.
+  // Merged so the tab is one chronological "what he did / said" stream
+  // instead of three per-source tabs.
+  "tech:jensen": 15,
   "finance:news": 12,
   "politics:world": 15,
 };
