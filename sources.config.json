@@ -193,6 +193,48 @@
     ]
   },
   {
+    "id": "nvidia-blog",
+    "name": "NVIDIA 官方博客",
+    "type": "rss",
+    "url": "https://blogs.nvidia.com/feed/",
+    "category": "tech",
+    "subcategory": "jensen",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "NVIDIA 官方博客，含黄仁勋主题演讲 / 对谈现场报道，以及他本人署名文章。"
+  },
+  {
+    "id": "gnews-jensen-zh",
+    "name": "Google News · 黄仁勋",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "category": "tech",
+    "subcategory": "jensen",
+    "lang": "zh",
+    "enabled": true,
+    "locales": [
+      "zh"
+    ],
+    "notes": "Google News 关键词订阅：黄仁勋。中文媒体对其言行 / 演讲 / 访谈的报道。用 feed URL 自带过滤替代 keywords 字段（RSS fetcher 不消费 keywords）。"
+  },
+  {
+    "id": "gnews-jensen-en",
+    "name": "Google News · Jensen Huang",
+    "type": "rss",
+    "url": "https://news.google.com/rss/search?q=%22Jensen+Huang%22&hl=en-US&gl=US&ceid=US:en",
+    "category": "tech",
+    "subcategory": "jensen",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Google News 关键词订阅：\"Jensen Huang\"。英文媒体对他演讲 / 访谈的直接引语报道。"
+  },
+  {
     "id": "attentionvc-ai",
     "name": "X 推文 (AttentionVC)",
     "type": "api",
