@@ -6,140 +6,140 @@
       "title": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "excerpt": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "meta": "Python · ★ 48,079 · 🍴 5,389 · 📈 4,758 stars today",
+      "meta": "Python · ★ 48,103 · 🍴 5,392 · 📈 4,758 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ElevenLabs 的开源全本地替代方案，支持语音克隆、音色设计、视频配音、听写、转录与有声书生成，覆盖 646 种语言。推理全部在本地完成，音频无需上传云端，适合注重隐私的创作者、播客与有声书制作方自建语音工作流。"
+      "summary": "本地运行的开源 ElevenLabs 替代方案，支持声音克隆、音色设计、视频配音、听写、转录与有声书制作，覆盖 646 种语言，推理全部在本地完成。适合对隐私敏感、又需要多语言语音合成的开发者与内容创作者。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "meta": "Rust · ★ 10,580 · 🍴 1,420 · 📈 990 stars today",
+      "meta": "Rust · ★ 10,599 · 🍴 1,421 · 📈 990 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NVIDIA 推出的自主 AI agent 安全运行时，为 agent 提供隔离、私密的执行环境，可限制其对文件、网络与系统资源的访问，防止越权操作和数据外泄。适合在企业或本地环境中部署需要长时间自主运行的编码、运维类 agent。"
+      "summary": "NVIDIA 推出的自主 AI 代理安全运行时，为 agent 提供隔离、私密的执行环境，让其在受控边界内调用工具、访问资源，而不危及宿主系统或泄露数据。适合在生产环境部署自主代理、对安全合规有要求的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "vectorize-io/hindsight",
       "url": "https://github.com/vectorize-io/hindsight",
       "excerpt": "Hindsight: Agent Memory That Learns",
-      "meta": "Python · ★ 42,817 · 🍴 5,767 · 📈 2,575 stars today",
+      "meta": "Python · ★ 42,838 · 🍴 5,767 · 📈 2,575 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI agent 提供会持续学习的记忆层。通过记录并沉淀历史交互，让 agent 跨会话、跨任务复用经验，避免重复犯错。适合构建长期运行的对话助手、编码 agent 或多步任务系统，缓解上下文窗口有限、记忆易丢失的问题。"
+      "summary": "为 AI agent 设计的记忆层，强调记忆会随使用不断学习与演化，而非简单堆叠向量检索。可用于让代理跨会话保留上下文与经验，在客服、编程助手、个人助理等需要长期记忆的场景中提升连续性。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "excerpt": "The open-source app everyone uses to manage agents at work",
-      "meta": "TypeScript · ★ 94,446 · 🍴 16,049 · 📈 2,458 stars today",
+      "meta": "TypeScript · ★ 94,459 · 🍴 16,049 · 📈 2,458 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用于在工作中管理 AI agent 的开源应用。团队可集中查看、调度与协作多个 agent 的执行过程，把散落各处的 agent 纳入统一界面。适合需要多人协同使用 agent 完成日常任务的工程与运营团队。"
+      "summary": "用于在工作中管理 AI agent 的开源应用，把分散的代理集中到统一界面里编排、监控与协作。适合已经用上多种代理工具、但缺少统一管理入口的团队，用一套界面调度多个 agent 处理日常任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "excerpt": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和",
-      "meta": "Rust · ★ 21,977 · 🍴 2,087 · 📈 232 stars today",
+      "meta": "Rust · ★ 21,993 · 🍴 2,087 · 📈 232 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "仅 25 MB 的轻量跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库。内置 AI 助手、MCP Server 与 CLI，提供桌面端和 Dock 形态，适合开发者日常查库与 AI 工具集成。"
+      "summary": "仅 25 MB 的跨平台数据库客户端，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、SQL Server、达梦等 100 多种数据库，内置 AI 辅助、MCP Server 与 CLI，同时提供桌面端和 Dock 形态，适合需要轻量统一入口的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvschwarz/openrig",
       "url": "https://github.com/mvschwarz/openrig",
       "excerpt": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "meta": "TypeScript · ★ 2,427 · 🍴 176 · 📈 737 stars today",
+      "meta": "TypeScript · ★ 2,437 · 🍴 177 · 📈 737 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多 agent 编排框架，把 Claude Code 和 Codex 当作同一系统中的两个执行体协同运行，可让不同模型分工处理同一任务、互相校验或接力。适合探索跨模型协作、对比模型能力上限的开发者与研究者。"
+      "summary": "多智能体运行框架，把 Claude Code 与 Codex 组合成同一套系统协同工作，让两个编码代理分工、互相调用或交叉验证。适合希望用多代理并行处理复杂软件任务、并对比不同模型表现的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "excerpt": "Self-hosted deployment platform",
-      "meta": "TypeScript · ★ 13,812 · 🍴 1,236 · 📈 437 stars today",
+      "meta": "TypeScript · ★ 13,820 · 🍴 1,236 · 📈 437 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管部署平台，让团队在自己的服务器上完成应用的构建与发布，不依赖第三方云服务。适合对数据主权、成本或合规有要求，希望把部署流程掌握在自己手里的工程团队。"
+      "summary": "可自托管的部署平台，帮助团队把应用部署流程掌握在自己手里，避免绑定托管服务。适合有数据合规或成本考量、希望在内网或自有服务器上搭建类 Vercel／Heroku 部署体验的开发者与运维团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "averygan/reclip",
       "url": "https://github.com/averygan/reclip",
       "excerpt": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "meta": "HTML · ★ 10,085 · 🍴 1,536 · 📈 113 stars today",
+      "meta": "HTML · ★ 10,095 · 🍴 1,536 · 📈 113 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量自托管媒体下载器，支持从绝大多数网站抓取视频，并提供简洁的 Web 界面。无需命令行操作，部署后即可在浏览器中粘贴链接下载，适合个人搭建私有下载服务、避免依赖第三方在线工具。"
+      "summary": "轻量自托管媒体下载工具，支持从几乎所有网站抓取视频，附带简洁的 Web 界面，部署后即可在浏览器里粘贴链接下载。适合不想依赖第三方在线下载站、又希望随手保存素材的个人用户和小团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "cs341-illinois/coursebook",
       "url": "https://github.com/cs341-illinois/coursebook",
       "excerpt": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-      "meta": "TeX · ★ 3,093 · 🍴 275 · 📈 572 stars today",
+      "meta": "TeX · ★ 3,102 · 🍴 275 · 📈 572 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "伊利诺伊大学 CS341 课程的开源系统编程入门教材。内容覆盖底层编程、内存管理、并发与系统调用等主题，面向计算机专业学生和自学系统编程的开发者，可与课程作业配合使用。"
+      "summary": "伊利诺伊大学 CS341 课程的开源系统导论教材，面向系统编程入门，讲解底层编程、内存管理、并发与操作系统相关基础。适合计算机专业学生自学，也可供教师作为课程参考材料使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 61,347 · 🍴 10,528 · 📈 786 stars today",
+      "meta": "Python · ★ 61,364 · 🍴 10,531 · 📈 786 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI 工程实践教程，强调从零动手实现并交付。内容按「学会、做出来、发布给别人用」的路径组织，适合想从调用 API 进阶到独立构建并上线 AI 应用的开发者。"
+      "summary": "从零学习 AI 工程的实践路线：先理解原理，再亲手实现，最后把成果交付给他人使用。内容偏重动手构建而非纯理论，适合想系统补上 AI 工程能力、并产出可运行项目的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "excerpt": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "meta": "Python · ★ 37,344 · 🍴 3,262 · 📈 835 stars today",
+      "meta": "Python · ★ 37,371 · 🍴 3,262 · 📈 835 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 RAG 的文档索引方案，放弃向量检索，改用基于推理的方式定位相关内容。通过为文档建立结构化索引，让模型按逻辑推理查找答案，适合处理长文档、表格与层级结构复杂的资料库。"
+      "summary": "面向 RAG 的文档索引方案，走无向量路线，依靠推理而非向量相似度来定位文档内容。相比传统向量检索，它更接近人类查阅长文档的方式，适合结构复杂、需要推理式检索的长文档问答场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "willfaust/Madeira",
       "url": "https://github.com/willfaust/Madeira",
       "excerpt": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "meta": "C · ★ 1,096 · 🍴 188 · 📈 81 stars today",
+      "meta": "C · ★ 1,097 · 🍴 188 · 📈 81 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "在受沙盒限制的 iOS 设备上运行 x86-64 Windows PC 游戏，技术栈为 FEX-Emu 做 x86 指令转译、Wine 提供 Windows API、DXMT 将 Direct3D 映射到 Metal。面向想在 iPhone/iPad 上折腾 PC 游戏的技术玩家。"
+      "summary": "在受限的 iOS 设备上运行 x86-64 Windows 游戏，通过 FEX-Emu 做指令翻译、Wine 提供 Windows 兼容层、DXMT 负责图形转换。适合想在 iPhone／iPad 上折腾 Windows 游戏、能接受性能损耗的技术玩家。"
     },
     {
       "sourceId": "github-trending",
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "meta": "TypeScript · ★ 21,844 · 🍴 1,843 · 📈 696 stars today",
+      "meta": "TypeScript · ★ 21,851 · 🍴 1,843 · 📈 696 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 AI agent 的 Office 运行时，把电子表格、文档、幻灯片、画布、关系型表格与 PDF 统一到同一套引擎中，让 agent 能直接读写和操作办公文件。适合构建自动化报表、文档处理类智能应用。"
+      "summary": "面向 AI agent 的办公套件运行时，把表格、文档、幻灯片、画布、关系表与 PDF 统一到同一套运行环境中。开发者可基于它让代理直接读写和操作办公文件，适合构建自动化报表、文档处理类 AI 应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "rakyll/hey",
       "url": "https://github.com/rakyll/hey",
       "excerpt": "HTTP load generator, ApacheBench (ab) replacement",
-      "meta": "Go · ★ 20,469 · 🍴 1,311 · 📈 34 stars today",
+      "meta": "Go · ★ 20,474 · 🍴 1,311 · 📈 34 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用 Go 编写的 HTTP 压测工具，作为 ApacheBench（ab）的替代品。支持并发控制、QPS 限制、多种请求方法与自定义请求头，结果输出清晰，适合后端性能测试和接口基准对比场景。"
+      "summary": "用 Go 编写的 HTTP 负载生成工具，作为 ApacheBench（ab）的替代品，支持并发请求压测并输出延迟分布等指标。适合后端与运维人员在接口性能测试、容量评估时快速发起压力测试。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -190,7 +190,7 @@
       "sourceId": "v2ex-hot",
       "title": "好牛的 GPT，降智降的奥特曼连他妈都不认了",
       "url": "https://www.v2ex.com/t/1245612",
-      "excerpt": "24 回复 · 程序员 节点",
+      "excerpt": "25 回复 · 程序员 节点",
       "publishedAt": "2026-09-29T10:17:07.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -235,7 +235,7 @@
       "sourceId": "v2ex-hot",
       "title": "你还会读所谓技术论坛上面的文章吗",
       "url": "https://www.v2ex.com/t/1245655",
-      "excerpt": "14 回复 · 程序员 节点",
+      "excerpt": "15 回复 · 程序员 节点",
       "publishedAt": "2026-09-29T15:10:46.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -359,10 +359,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "什么 AI 工具能辅助制作动物的 3D 模型？",
-      "url": "https://www.v2ex.com/t/1245511",
+      "title": "记一次网站缓存排查：改完内容清了所有缓存，访客还是看到旧版",
+      "url": "https://www.v2ex.com/t/1245607",
       "excerpt": "5 回复 · 程序员 节点",
-      "publishedAt": "2026-09-29T05:47:24.000Z",
+      "publishedAt": "2026-09-29T09:54:56.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -374,7 +374,7 @@
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编程、计算机操作与专业工作方面具备接近 Astra 的智能水平，API 输入与输出 token 价格仅为 Astra 标准价格的五分之一。"
+      "summary": "OpenAI推出GPT-6.1 Sol，面向编程、计算机操作和专业工作，智能水平接近Astra，API输入与输出token价格仅为Astra标准价的五分之一。"
     },
     {
       "sourceId": "openai-news",
@@ -384,17 +384,17 @@
       "publishedAt": "2026-09-29T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 回顾 DevDay 2026，公布二十余项更新，涵盖 GPT-6 Astra、ChatGPT、Codex、API、安全以及面向开发者的新工具。"
+      "summary": "OpenAI回顾2026年DevDay，发布超过20项更新，涵盖GPT-6 Astra、ChatGPT、Codex、API、安全以及面向开发者的新工具。"
     },
     {
       "sourceId": "openai-news",
       "title": "Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
-      "excerpt": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 推出 dots，定位为可跨复杂项目与日常任务持续工作的主动式助手，官方表示用户仍可掌握工作进展并保持控制权。"
+      "summary": "OpenAI推出dots，定位为主动性助手，可在复杂项目和日常任务中持续推进工作，同时让用户保持对过程的控制。"
     },
     {
       "sourceId": "openai-news",
@@ -404,7 +404,7 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 发布前沿 AI 训练安全案例的早期指南，内容涵盖技术保障措施、运营实践，以及对失准事件的调查。"
+      "summary": "OpenAI发布前沿AI训练安全案例的早期指南，内容涵盖技术保障措施、运营实践，以及针对失准事件的调查方法。"
     },
     {
       "sourceId": "openai-news",
@@ -414,7 +414,7 @@
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 就涉及澳大利亚政府网站的事件致歉，并表示将推出更强保障措施与支持，以协助加强澳大利亚的网络防御能力。"
+      "summary": "OpenAI就涉及澳大利亚政府网站的相关事件致歉，并提出更强的保障措施与支持，以协助加强澳大利亚的网络防御。"
     },
     {
       "sourceId": "openai-news",
@@ -642,6 +642,276 @@
       "source": "OpenAI News"
     },
     {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "excerpt": "",
+      "publishedAt": "2026-09-24T16:20:39.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "publishedAt": "2026-09-23T16:00:57.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "excerpt": "",
+      "publishedAt": "2026-09-23T15:25:14.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "excerpt": "",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T16:24:24.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "excerpt": "",
+      "publishedAt": "2026-09-02T16:18:31.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T17:08:51.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "excerpt": "",
+      "publishedAt": "2026-08-27T16:11:32.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "excerpt": "Piloting the world's first double-blind AI evaluations",
+      "publishedAt": "2026-08-27T12:59:16.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "publishedAt": "2026-08-26T17:01:00.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "publishedAt": "2026-08-21T11:59:48.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-08-13T17:04:18.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "publishedAt": "2026-08-12T14:01:59.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "excerpt": "",
+      "publishedAt": "2026-08-06T15:06:15.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "publishedAt": "2026-07-30T15:00:59.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "excerpt": "",
+      "publishedAt": "2026-07-29T16:02:10.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "excerpt": "",
+      "publishedAt": "2026-07-28T13:21:37.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "publishedAt": "2026-07-22T13:38:54.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "publishedAt": "2026-07-21T15:16:30.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "publishedAt": "2026-07-17T15:00:11.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "publishedAt": "2026-07-16T09:30:42.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "publishedAt": "2026-07-13T12:37:28.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "excerpt": "",
+      "publishedAt": "2026-07-03T14:25:43.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "excerpt": "",
+      "publishedAt": "2026-06-24T16:30:01.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "publishedAt": "2026-06-16T21:29:50.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "excerpt": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "publishedAt": "2026-06-16T15:46:31.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
+      "sourceId": "deepmind-blog",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "excerpt": "",
+      "publishedAt": "2026-06-10T16:24:11.000Z",
+      "category": "tech",
+      "source": "DeepMind Blog"
+    },
+    {
       "sourceId": "huggingface-blog",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -649,7 +919,7 @@
       "publishedAt": "2026-09-29T15:30:38.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "英伟达发布表格预测模型 Kumo Tabular，称其在准确率与效率方面为表格预测树立了新的前沿水平，相关技术内容发布在 Hugging Face 博客。"
+      "summary": "英伟达发布Kumo Tabular，在表格数据预测任务上同时提升准确率与效率，被定位为表格预测领域新的准确率—效率前沿。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -659,7 +929,7 @@
       "publishedAt": "2026-09-29T13:07:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客介绍一种面向 MCP 智能体的来源感知验证方法，主张除核实事实本身外，还须核实信息来源，以保证智能体输出的可追溯与可信。"
+      "summary": "Multiverse Computing的CAI团队提出面向MCP智能体的来源感知验证方法，强调不仅要核实事实本身是否正确，还要核实信息来源是否可靠。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -669,7 +939,7 @@
       "publishedAt": "2026-09-28T09:44:05.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客介绍 Holo4，称其可支撑通用型计算机操作智能体。"
+      "summary": "H公司发布Holo4，用于驱动通用型计算机操作智能体，为其在各类计算机任务中的执行提供支持。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -920,10 +1190,10 @@
       "url": "https://huggingface.co/papers/2609.32577",
       "excerpt": "Reinforcement learning (RL) for code agents often uses executable tests to provide binary rewards. With these rewards, Group Relative Policy Optimization (GRPO) assigns identical advantages to test-passing trajectories within each rollout group, overlooking differences in implementation quality and ",
       "publishedAt": "2026-09-26T00:00:00.000Z",
-      "meta": "👍 92",
+      "meta": "👍 101",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对代码智能体 RL 中 GRPO 对组内通过测试的轨迹分配相同优势、忽略实现质量差异的问题，提出分组式智能体评分与优势再分配方法：在可执行测试的二值奖励之外引入更细粒度的组内评价，重塑优势估计，改善代码智能体的训练信号与效果。"
+      "summary": "代码智能体 RL 依赖可执行测试提供二值奖励，GRPO 对同一 rollout 组内通过测试的轨迹分配相同优势，忽视实现质量差异。论文提出分组式智能体评分与优势重分配机制，按实现质量细化组内优势估计，改进代码智能体的强化学习训练。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -934,7 +1204,7 @@
       "meta": "👍 55",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "系统研究无视觉编码器多模态大模型的缩放规律：此类模型直接从原始像素学习视觉表征，架构统一，但其扩展行为此前缺乏系统分析。论文通过大规模预训练实验刻画缩放曲线，并与带预训练视觉编码器的 MLLM 对比，评估移除编码器的代价。"
+      "summary": "多数多模态大模型依赖预训练视觉编码器提供视觉先验，无编码器 MLLM 直接从原始像素学习表示，架构统一但其扩展行为尚不明确。论文系统研究无编码器多模态预训练的 scaling law，对比有编码器方案，给出性能随模型与数据规模变化的规律。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -942,10 +1212,10 @@
       "url": "https://huggingface.co/papers/2609.33378",
       "excerpt": "A central goal in robotics is to enable manipulation across changing tasks and environments. Vision-language-action (VLA) models provide broad manipulation capabilities but can struggle when execution requires diagnosing failures and adapting behavior. Strong agents can discover effective interventi",
       "publishedAt": "2026-09-27T00:00:00.000Z",
-      "meta": "👍 29",
+      "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向机器人在多变任务与环境中的操作需求，提出跨智能体的递归 harness 蒸馏：先让强智能体发现有效的失败诊断与干预策略，再将其递归蒸馏进 Vision-Language-Action 模型，使 VLA 在需要纠错与自适应时表现更好，兼顾广泛操作能力与执行鲁棒性。"
+      "summary": "机器人操作需适应多变任务与环境，VLA 模型具备通用操作能力，却难以诊断失败并调整行为，而强智能体能发现有效干预。论文提出跨智能体的递归 harness 蒸馏，把智能体的干预能力迁移至 VLA 策略，提升复杂场景下的操作鲁棒性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -956,7 +1226,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对单次 rollout 可跨越数百次模型—环境交互、近百万 token 的超长程智能体任务，提出弹性 RL 训练框架 QwenGyre，缓解在线 RL 在超长轨迹上的显存与吞吐瓶颈，通过可伸缩并行与调度支持 xlong-horizon 智能体的稳定训练。"
+      "summary": "LLM 智能体日益承担超长时程任务，单次 rollout 可跨数小时、数百次模型-环境交互、近百万 token，在线 RL 因此面临显存与调度挑战。QwenGyre 提出弹性 RL 框架，通过弹性并行与调度支持 xlong 时程智能体训练。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -967,7 +1237,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "胸部 X 光影像的放射报告冗长、临床信息密集，使视觉-语言预训练难以直接迁移，现有方法往往依赖任务特定微调。论文提出以句子为中心的增强预训练框架 SentZero，在多任务零样本 CXR 分析上取得更好表现，减少对下游微调的依赖。"
+      "summary": "胸部 X 光影像与放射报告配对预训练有助医学图像理解，但报告冗长、临床信息密集，现有方法仍依赖任务特定微调。SentZero 提出以句子为中心的视觉-语言预训练框架，实现多任务零样本胸部 X 光分析，降低对下游微调的依赖。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -978,7 +1248,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "快速矩阵乘法在固定乘积下寻找更省算力的算法，本文则提问 Transformer 的学习投影能否直接改用另一种更廉价的乘积。基于联想代数构造替换普通矩阵乘法，提出联想代数层，在保持参数不变的前提下改变乘积形式，从而降低计算开销。"
+      "summary": "快速矩阵乘法在固定乘积下寻找更省算力的求值方式，本文反过来探讨 Transformer 的学习投影能否改用更廉价的乘积。基于结合代数构造替换普通矩阵乘法，提出 Associative Algebra Layers，在保持参数量的前提下改变乘积形式以降低计算开销。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -989,7 +1259,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有编码智能体评测多局限于单一代码库，而软件生态中许多功能与缺陷修复需要跨仓库协同修改。论文提出跨仓库评测基准 WideSWE，考察编码智能体能否协调多仓库间的变更，揭示当前智能体在跨库依赖与协同开发上的能力边界。"
+      "summary": "编码智能体评测已从解决单个 issue 发展到长时程开发，但任务完成度仍多在单一代码库内衡量。软件生态中许多功能与缺陷修复需跨多个仓库协同改动。论文提出 WideSWE 基准，考察编码智能体跨仓库协调变更的能力并给出评测结果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1000,7 +1270,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "系统评测通用前沿系统 GPT-6 Astra 在计算机视觉任务上的表现，覆盖传统上由专用 CV 模型处理的领域，分析其能力边界：哪些视觉任务已被通用模型轻松解决，哪些仍然困难，为 CV 社区提供能力图谱与研究方向参考。"
+      "summary": "通用前沿系统正从视觉理解扩展到传统上由专用计算机视觉模型承担的能力。论文系统评测 GPT-6 Astra 在各类视觉任务上的表现，区分「难」与「易」的视觉问题，揭示通用模型的能力边界以及当前仍未被攻克的视觉任务。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1011,7 +1281,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "基于工具的图像润色通常用自回归 MLLM 依次生成推理、工具选择与参数值。论文将工具参数控制重构为流匹配（flow matching）问题，直接生成连续工具参数，提出 FlowTool，从而更精确地调控润色参数并提升编辑质量。"
+      "summary": "基于工具的图像润色通常用自回归 MLLM 依次生成推理、工具选择与参数值。FlowTool 将工具参数控制建模为 flow matching 问题，用流匹配直接生成连续参数，替代逐步自回归解码，提升图像润色中工具参数预测的精度与效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1022,7 +1292,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "训练会在模型参数中留下更新痕迹，论文据此提出 Imprint Reader，从权重更新中读出学习过程的「印记」，并把这种读出的信息转化为行为干预，让语言模型能够对自身训练过程进行反思并据此调整后续行为。"
+      "summary": "随着语言模型在 AI 研发中作用增强，人们希望模型像人一样反思自身学习过程并据此改进，而训练留下的参数更新本身即是可利用的信号。论文提出 Imprint Reader，从权重更新中读出学习信息并转化为行为干预，实现模型的自我反思与改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1033,7 +1303,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "从 RL 视角研究 on-policy distillation（OPD），建立其反向 KL 目标与 KL 正则化策略优化之间的联系，并据此提出 Least-Square Policy Distillation（LSPD）框架，在 LLM 推理任务上以更少样本获得更高样本效率。"
+      "summary": "论文从强化学习视角研究 on-policy distillation（OPD），建立 OPD 中 reverse-KL 目标与 KL 正则化策略优化之间的联系，并据此提出 Least-Square Policy Distillation（LSPD）框架，提升 LLM 推理训练的样本效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1044,7 +1314,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "LLM 强化学习后训练需在 GPU 集群上协调生成、推理与训练多个模型，且运行中资源可用性、序列长度、显存压力与阶段瓶颈都可能变化。论文提出自适应并行系统 Nereus，动态调整并行策略，提升后训练吞吐与资源利用率。"
+      "summary": "LLM 的 RL 后训练需在 GPU 集群上协调生成、推理与训练多个模型，运行中资源可用量、序列长度、显存压力与阶段瓶颈不断变化。Nereus 提出自适应并行方案，动态调整并行策略以适应这些变化，提升后训练吞吐与资源利用率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1055,7 +1325,29 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向自演化的 LLM 智能体，提出 ExpVoyager，通过直接的经验导航从历史交互中合成可复用的智能体技能。方法将积累的经验转化为可迁移技能，使智能体无需人工设计即可持续扩展能力并适应动态任务。"
+      "summary": "从经验中学习已成为自演化 LLM 智能体的关键范式，如何将累积经验转化为可复用技能是核心问题。ExpVoyager 提出直接经验导航机制，用于动态合成智能体技能，使智能体在持续变化的任务中不断扩展自身能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Selecting Diverse SFT Traces Improves Post-RL Generalization",
+      "url": "https://huggingface.co/papers/2609.33780",
+      "excerpt": "Verified solutions are not equally useful for preparing reasoning models for reinforcement learning (RL). We present a comprehensive study of route diversity, the variation in the sequences of reasoning steps in supervised fine-tuning (SFT) data, and propose a lightweight, rule-based fingerprint to ",
+      "publishedAt": "2026-09-27T00:00:00.000Z",
+      "meta": "👍 6",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "经过验证的解并非对 RL 前的推理模型训练同等有用。论文系统研究 SFT 数据中的路径多样性，即推理步骤序列的差异，并提出轻量级规则化指纹来度量与筛选多样轨迹，实验显示选取多样 SFT 轨迹可提升 RL 后的泛化性能。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Learning from Teacher Continuations at Student States",
+      "url": "https://huggingface.co/papers/2609.36246",
+      "excerpt": "We present OLIVE (OnLine InterVEntion). At each iteration, the evolving student policy generates a new prefix, the teacher continues it autoregressively, and the student is updated using cross-entropy computed on the teacher-generated tokens. Each design choice targets a corresponding limitation of ",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "meta": "👍 5",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "论文提出 OLIVE（OnLine InterVEntion）：每轮由当前学生策略生成新前缀，教师自回归续写该前缀，再用教师生成 token 上的交叉熵更新学生。该设计针对在线蒸馏的若干局限，使学生能在自身状态分布上接受教师指导。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1066,7 +1358,18 @@
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "多智能体组织中常出现冲突，例如一个编码智能体修改了仓库接口，另一个仍在旧版本上开发导致测试失效。论文提出 Relic，把一次对话式的冲突解决沉淀为持久的多智能体组织能力，使成员更替后协作规范仍可延续，而非仅解决单次事件。"
+      "summary": "多智能体组织中常发生冲突，例如一个编码智能体改了仓库接口，另一个仍在旧版本上开发导致测试失效。对话只能解决单次冲突，参与者更替后经验难以留存。Relic 提出将多智能体协作沉淀为持久组织能力的机制。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Can We Trust the Teacher? Decoupled Credit Direction-Magnitude for Self-Distillation",
+      "url": "https://huggingface.co/papers/2609.34848",
+      "excerpt": "RLVR provides reliable trajectory-level credit, while OPSD offers dense supervision for token-level credit. This exposes a fundamental coupling when updating step-level credit direction and magnitude with teacher supervision, preventing steps from receiving reliable credit directions and contributio",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "meta": "👍 4",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "RLVR 提供可靠的轨迹级信用，OPSD 提供 token 级密集监督，但二者耦合使步级信用的方向与大小难以同时可靠。论文提出解耦信用方向与幅度的自蒸馏方法，让每个推理步骤获得可靠方向与合理贡献权重，改善训练效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1077,7 +1380,7 @@
       "meta": "👍 4",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "多向量视觉文档检索（VDR）需在每次搜索时运行数十亿参数的查询编码器，成为瓶颈。论文提出 ColNanoVDR，借助最优传输实现无需文档的查询蒸馏，将教师查询编码器压缩为小学生模型并复用教师已有索引，大幅降低查询端开销。"
+      "summary": "基于视觉语言模型的多向量检索器在视觉文档检索中领先，但每次搜索都要运行数十亿参数的查询编码器。ColNanoVDR 用最优传输实现无文档的查询蒸馏，将查询编码器压缩为小模型并复用教师已有索引，显著降低检索成本。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1088,18 +1391,7 @@
       "meta": "👍 4",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "论文系统考察表示工程在 LLM 安全中的实际作用：对齐方法优化输出、文本监控器检测交互文本，而模型内部表征兼有控制与监测潜力。研究回答内部表征何时真正有用，并比较其相对行为层面防护的效果与局限。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Can We Trust the Teacher? Decoupled Credit Direction-Magnitude for Self-Distillation",
-      "url": "https://huggingface.co/papers/2609.34848",
-      "excerpt": "RLVR provides reliable trajectory-level credit, while OPSD offers dense supervision for token-level credit. This exposes a fundamental coupling when updating step-level credit direction and magnitude with teacher supervision, preventing steps from receiving reliable credit directions and contributio",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "meta": "👍 3",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "RLVR 提供可靠的轨迹级信用，OPSD 提供密集的 token 级监督，但二者耦合使步级信用的方向与幅度难以同时可靠。论文提出解耦信用方向与幅度的自蒸馏方法，让教师主要负责方向、幅度由更可靠信号决定，避免被不可靠教师误导。"
+      "summary": "可靠的 AI 防护既需要减少不安全行为的控制机制，也需要检测安全风险的监测机制。论文考察表示工程在 LLM 安全中的作用，探究何时模型内部表示能有效辅助安全控制与监测，并与对齐方法、文本监控等行为层面防护手段进行比较。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1110,7 +1402,7 @@
       "meta": "👍 3",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "CTC 天然支持离线与流式语音识别，但传统实现需在显存中实例化帧×词表的激活矩阵，使用原生 LLM 大词表时显存开销过高。论文提出 Pruned CTC，通过剪枝显著降低显存占用，使大词表 ASR 训练更为可行高效。"
+      "summary": "CTC 天然支持带话语级监督的离线与流式语音识别，但常规实现需在显存中实例化帧×词表的激活，使用原生 LLM 词表训练时显存开销过高。论文提出 Pruned CTC，通过剪枝降低显存占用，使大词表 ASR 训练变得可行。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1120,8 +1412,7 @@
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "meta": "👍 3",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "蒸馏攻击通过收集闭源前沿模型的推理轨迹来训练自有模型，低成本复制其能力。论文发现现有防蒸馏手段在攻击者施加强化学习后极易失效：RL 能恢复甚至超过原推理水平，说明当前蒸馏防御存在结构性缺陷。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1131,8 +1422,7 @@
       "publishedAt": "2026-09-28T00:00:00.000Z",
       "meta": "👍 3",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "基于查表的记忆是扩展 LLM 参数的有效途径，但 Engram 等现有设计对局部 token 模式的处理较为统一。论文提出 FactorEngram，将 n-gram 记忆因式分解并在基（basis）级别进行门控，提升局部模式记忆的表达能力与参数效率。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1215,26 +1505,6 @@
       "source": "HuggingFace Trending Papers"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "SMAT: Simple and Efficient Merge-Aware Training",
-      "url": "https://huggingface.co/papers/2609.33437",
-      "excerpt": "Model merging integrates the capabilities of multiple experts without joint retraining, but standard expert training optimizes task loss alone and does not guarantee good performance after merging. Merge-aware training (MAT) aims to improve merged performance, but existing methods do not fully accou",
-      "publishedAt": "2026-09-27T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-      "url": "https://huggingface.co/papers/2609.16145",
-      "excerpt": "We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable parameters, 0.73% of the 4.65B text module) that sits atop a fully froz",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
       "url": "https://tldr.tech/ai/2026-09-29",
@@ -1242,7 +1512,7 @@
       "publishedAt": "2026-09-29T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 当日要点包括：Claude Sonnet 5.5 发布、Anthropic IPO 相关消息泄露，以及 AMD 收购 World Labs。"
+      "summary": "TLDR AI当日汇总三条消息：Claude Sonnet 5.5发布、Anthropic IPO相关信息泄露，以及AMD收购World Labs。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1693,7 +1963,7 @@
       "publishedAt": "2026-09-29T02:55:27.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "据 Latent Space 报道，AMD 以 82 亿美元收购 World Labs；同一期内容还提到 Atlas 解决了面向机器人、设计等领域的稀疏重建问题。"
+      "summary": "AMD以82亿美元收购World Labs；同时Atlas解决了稀疏重建问题，可应用于机器人、设计等领域。"
     },
     {
       "sourceId": "latent-space",
@@ -1703,7 +1973,7 @@
       "publishedAt": "2026-09-29T02:44:29.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 报道称，Anthropic 的 Opus 5.5 在解说类视频生成方面表现良好，被视为一项较为罕见的能力。"
+      "summary": "Latent Space报道称，Anthropic的Opus 5.5在解说类视频生成方面表现良好，被视为一项较为少见的能力。"
     },
     {
       "sourceId": "latent-space",
@@ -1713,7 +1983,7 @@
       "publishedAt": "2026-09-29T01:48:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic 的 Thariq Shihipar 在 Latent Space 谈 Claude Code 的下一阶段，涉及 Opus 与 Sonnet 5.5 的发布，以及 Mods、Plugins、Projects、Tag 等功能，并提及在推进前沿能力与控制节奏之间的权衡。"
+      "summary": "Latent Space访谈Anthropic的Thariq Shihipar，讨论Claude Code的下一阶段，涉及Opus/Sonnet 5.5的发布，以及Mods、Plugins、Projects、Tag等功能。"
     },
     {
       "sourceId": "latent-space",
@@ -1876,7 +2146,7 @@
       "publishedAt": "2026-09-29T10:43:45.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论文章指出，客户讨论 AI 成本时通常从 token 价格谈起，并倾向选用云端最新最强的模型，但企业未必总需要这一级别能力，文章探讨如何让 AI 成为资产而非开支。"
+      "summary": "文章讨论企业AI成本问题：相关对话通常从token价格开始，最终落到接入云端最新最强模型，但企业未必总需要这一级别的能力。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1886,7 +2156,7 @@
       "publishedAt": "2026-09-28T22:17:07.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论圆桌讨论美国虚拟边境墙的致命失败：过去 25 年美国耗资数十亿美元在南部边境修建监控塔组成的虚拟墙，承诺有助发现并拘捕越境者、挽救生命，但调查指出其实际成效存疑。"
+      "summary": "美国25年间投入数十亿美元，在南部边境建设由监视塔组成的「虚拟墙」，承诺帮助侦测与拘捕越境者并挽救生命；一项调查揭示其致命缺陷。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1896,7 +2166,7 @@
       "publishedAt": "2026-09-28T17:03:16.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论探讨应如何界定 AI 做出的科学发现。文中提到 Anthropic 此前宣布于今年早些时候设立分子生物学实验室，由 Claude 智能体阅读文献并提出假设。"
+      "summary": "MIT科技评论文章讨论如何界定AI做出的科学发现，提到Anthropic称其今年早些时候设立分子生物学实验室，由Claude智能体进行文献阅读并提出假设。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2143,10 +2413,19 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
-      "title": "VOA今日焦点 (2026年9月30日) 特朗普总统宴请马斯克、黄仁勋 拒与中国在“超级智能”领域合作 - 美国之音",
+      "title": "VOA今日焦点 (2026年9月30日) 特朗普总统宴请马斯克、黄仁勋 拒与中国在“超级智能”领域合作 - voachinese.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tMHJjVUtZVTBDZHpYOXhRU040WWswdndKNGRVT2FvZUlJa1o2N0JJaHJqc1puWG1iUG82bnA2dEkzTnBiZV9LNy1ZM0RxTFRCaEw1LVE3UW5Zb05PVkFLdW9XSDZFdVBSMjdZ0gFuQVVfeXFMUEJzcVNxSFZzQXNPOWdmYWhuNjdia0JRTG5xNTNOdTZFWXljek15VllycVNnZXJ6cmpHalItUHMtU1lIekJrSEVxYzNqbGZPMUVwUEZIZGpweG5wOFF6UUp5bFBpbGIxeTlZbmh5eUE?oc=5",
-      "excerpt": "VOA今日焦点 (2026年9月30日) 特朗普总统宴请马斯克、黄仁勋 拒与中国在“超级智能”领域合作 美国之音",
+      "excerpt": "VOA今日焦点 (2026年9月30日) 特朗普总统宴请马斯克、黄仁勋 拒与中国在“超级智能”领域合作 voachinese.com",
       "publishedAt": "2026-09-29T21:33:35.000Z",
+      "category": "tech",
+      "source": "Google News · 黄仁勋"
+    },
+    {
+      "sourceId": "gnews-jensen-zh",
+      "title": "黄仁勋、苏姿丰，在华有了新身份 加入清华经管学院顾问委员会 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Idk1TZDllSjV4SWxjZzlETGJVcXJvRDVkUGh5clZlX2lqeFh0dnVMLWg3WjdvZ2otaGI4RXBtRXpWQV80ZENmTmFKdFBORWkwMkZCbXo4bThvQ19mV0QxVW9tdUVuLWlBeERmSUhEWW4?oc=5",
+      "excerpt": "黄仁勋、苏姿丰，在华有了新身份 加入清华经管学院顾问委员会 中华网 黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克 新浪财经 黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员 nbd.com.cn",
+      "publishedAt": "2026-09-30T00:27:59.000Z",
       "category": "tech",
       "source": "Google News · 黄仁勋"
     },
@@ -2179,28 +2458,10 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
-      "title": "黄仁勋等3人加入清华经管顾问委员会 跨国企业领袖助力 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TT2ppQXIwbE9MNXpSbEl5SmpmcEVjYUljRGE4V2RZOTFXcTg2VkU4OFZ6dWFObTBHMzh0NlFlTTZFdHNHSGNDX2NxMmxkNml4NVJPYWZnNm9iMWNQdGpyVUNBLWpWYmpJN2VQeDdUaHc?oc=5",
-      "excerpt": "黄仁勋等3人加入清华经管顾问委员会 跨国企业领袖助力 中华网",
-      "publishedAt": "2026-09-29T11:35:22.000Z",
-      "category": "tech",
-      "source": "Google News · 黄仁勋"
-    },
-    {
-      "sourceId": "gnews-jensen-zh",
       "title": "AI时代不需要软件工程师了？黄仁勋：大错特错！ - 手机网易网",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZWldaSkZ0UjNnZHRZSk1kVUQ3ZlVQQ2FzZDRObk82LV9DTnlFdVNFNG5KS3ZWX2lLSUVQaDQ2NFFCbHVQNklES3VxY1F5MGV5U1hvUQ?oc=5",
       "excerpt": "AI时代不需要软件工程师了？黄仁勋：大错特错！ 手机网易网",
       "publishedAt": "2026-09-29T04:52:24.000Z",
-      "category": "tech",
-      "source": "Google News · 黄仁勋"
-    },
-    {
-      "sourceId": "gnews-jensen-zh",
-      "title": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员 - nbd.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vc0tIRDc2QU1jRlh0N1RWb01hak82WHdWM2phTEV0VzcwSHVYSFR3NmJEaF9yUjQzMkdfQ054Y1BleTNGTjAxdHg4eFQ5bVBLeDlZQ3NtSTJoS0pLcUtzTy14cHh2dw?oc=5",
-      "excerpt": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员 nbd.com.cn",
-      "publishedAt": "2026-09-29T15:31:00.000Z",
       "category": "tech",
       "source": "Google News · 黄仁勋"
     },
@@ -2233,6 +2494,15 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
+      "title": "英伟达CEO黄仁勋回应AI模型蒸馏争议：这是市场竞争行为 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGdmS1ZGVnhQUWxCOVZ1a1dfQVR3RGNtOHJQeC1KSVBORGRmeUpLbDIzdkF6RkFDWWJsVDhPQW0yQkFvMzRWdVptT2d3ZFFwLXJZRnJFcTBKb3dTU3k0S1RabGZXOXZ2bF9JUEZSQkZ3RFItWUFNeFJ4aE5UNG85T0xaaHFPRm9BbTJzd3RHbnNPV2ROQlFmS1g2NW9rX3dYaWxmSUxqNA?oc=5",
+      "excerpt": "英伟达CEO黄仁勋回应AI模型蒸馏争议：这是市场竞争行为 新浪财经",
+      "publishedAt": "2026-09-29T02:09:57.000Z",
+      "category": "tech",
+      "source": "Google News · 黄仁勋"
+    },
+    {
+      "sourceId": "gnews-jensen-zh",
       "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYkhxSVo1czFHMFV0TWdHT3pnU01Hd09mNGNqR3hJcVNiRnV1LXhoNGhLRDg5R3NrczF3RkVsMnZhNFc0Vy0wcA?oc=5",
       "excerpt": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了 财联社",
@@ -2251,15 +2521,6 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
-      "title": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaS1PaTJNTkh2c0lic254QTJLT2R0c01pVlRnWi1FLV85dGNXVC15LU5vdWVMZzB5UV9WR3lKMHZXR1RIaWZ4ZTJrS2FSck40MTJ4RHg0UTBtclpYM3NBVlFtN1RXMHJWZExwN21aT3NqcEtJTnlhSXByVG52cUd2NS1HTWNEdUJaNzYw?oc=5",
-      "excerpt": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克 新浪财经",
-      "publishedAt": "2026-09-29T19:07:30.000Z",
-      "category": "tech",
-      "source": "Google News · 黄仁勋"
-    },
-    {
-      "sourceId": "gnews-jensen-zh",
       "title": "黄仁勋担任清华大学经管学院顾问委员会委员 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUW5pMm9RZGFvLVpFckdQSzlrVk1qalhiRVBJR0ZVM3JmbElqRzNRSGhQQTNMa1dkNi1ObnhGSFhOWkVERmNKSTRXcXkycVAzc25TV3A1UW84S0xoc3RUbjZnVlY?oc=5",
       "excerpt": "黄仁勋担任清华大学经管学院顾问委员会委员 新京报",
@@ -2273,6 +2534,15 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZWRNN2liMzBlekVDMWRBVmJ6OGNhWl9TNHR3NFRkOW12MFNGZGV0ejIyRVpud2NTN0xMbUhWLVFRSWktRm9nS2oxOE02ZF9vaUVRVEZ6emhNVExmUEE1Nklhaw?oc=5",
       "excerpt": "英伟达的黄仁勋表示 人工智能创新与安全之间不存在冲突 emwap.eastmoney.com",
       "publishedAt": "2026-09-29T20:02:50.000Z",
+      "category": "tech",
+      "source": "Google News · 黄仁勋"
+    },
+    {
+      "sourceId": "gnews-jensen-zh",
+      "title": "投资界24h | 黄仁勋、苏姿丰任清华经管顾问；港股打新退潮；130亿，武汉新晋独角兽诞生 - 投资界",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxd2JMMFdXZWNSSWJHeDRIWnlFbUY1eGlPT0ZxQ2pBOFJMM1ZyenRuaGJ4aDlHSFhXYVhJbVdDTUxCVHl2dFZ5QmY1aHdNUWFGLUsyNzl3?oc=5",
+      "excerpt": "投资界24h | 黄仁勋、苏姿丰任清华经管顾问；港股打新退潮；130亿，武汉新晋独角兽诞生 投资界",
+      "publishedAt": "2026-09-30T00:29:00.000Z",
       "category": "tech",
       "source": "Google News · 黄仁勋"
     },
@@ -2323,6 +2593,15 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
+      "title": "黄仁勋表示AI智能体安全问题是一个可解决的问题 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81OW13RC1Yd2VsM3owNTBZTW12bTItSjEzYjFDbkcyWUE0c0JET0VBaTVQMEhFcktoUVBBQ1RCY1dGMGtJcnpvbzNrRzl4YnFjX1Z6dzR4aDB5cDgzQ3VtQw?oc=5",
+      "excerpt": "黄仁勋表示AI智能体安全问题是一个可解决的问题 eastmoney.com",
+      "publishedAt": "2026-09-28T12:23:24.000Z",
+      "category": "tech",
+      "source": "Google News · 黄仁勋"
+    },
+    {
+      "sourceId": "gnews-jensen-zh",
       "title": "消息人士称:英伟达CEO黄仁勋预计将于当地时间周二出席在白宫举行的会议 - eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YU2ROU0RJSWc4OGVwUTJORnBydXFVTkJVSDAyUHdCX3N3bE9hX25KVWtNd2ZySTVNcHZBWnFaR0R3dmRrSVF4cllHZ2hISlpWT3hlMEQxVnRpU2VIdG9MUg?oc=5",
       "excerpt": "消息人士称:英伟达CEO黄仁勋预计将于当地时间周二出席在白宫举行的会议 eastmoney.com",
@@ -2359,28 +2638,10 @@
     },
     {
       "sourceId": "gnews-jensen-zh",
-      "title": "黄仁勋表示AI智能体安全问题是一个可解决的问题 - eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81OW13RC1Yd2VsM3owNTBZTW12bTItSjEzYjFDbkcyWUE0c0JET0VBaTVQMEhFcktoUVBBQ1RCY1dGMGtJcnpvbzNrRzl4YnFjX1Z6dzR4aDB5cDgzQ3VtQw?oc=5",
-      "excerpt": "黄仁勋表示AI智能体安全问题是一个可解决的问题 eastmoney.com",
-      "publishedAt": "2026-09-28T12:15:23.000Z",
-      "category": "tech",
-      "source": "Google News · 黄仁勋"
-    },
-    {
-      "sourceId": "gnews-jensen-zh",
       "title": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVp5TnFsRmUtN0tvcjNYWHRVdU9EMkctYkdUdUNNUEt1TFI5YmdtRXV1TE13c0ZkaklPOTg3clNvV0k2YTlaUWVDUDQ5S2UzYWRxSlA4dXN3QjlVUkFfYU5kWGt3bTdDTFo2Q3lwMl80SXY2OHJ1WnRHQW1MRXBjQkgwS2s1M3pIcEZYdw?oc=5",
       "excerpt": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚 搜狐网",
       "publishedAt": "2026-09-29T22:19:08.000Z",
-      "category": "tech",
-      "source": "Google News · 黄仁勋"
-    },
-    {
-      "sourceId": "gnews-jensen-zh",
-      "title": "清华大学宣布：黄仁勋、苏姿丰共同加入 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fRUpXWU9iT0kzOFhJQ3RfT1ZjakV4R1dOdE5VU3hMMnQ0d2VrVjhHSXlVVXFycjJSTDdhU2R5Mzk2VTRXc0IzTA?oc=5",
-      "excerpt": "清华大学宣布：黄仁勋、苏姿丰共同加入 凤凰网",
-      "publishedAt": "2026-09-29T10:12:25.000Z",
       "category": "tech",
       "source": "Google News · 黄仁勋"
     },
@@ -2394,10 +2655,19 @@
       "source": "Google News · 黄仁勋"
     },
     {
+      "sourceId": "gnews-jensen-zh",
+      "title": "清华大学宣布：黄仁勋、苏姿丰共同加入 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fRUpXWU9iT0kzOFhJQ3RfT1ZjakV4R1dOdE5VU3hMMnQ0d2VrVjhHSXlVVXFycjJSTDdhU2R5Mzk2VTRXc0IzTA?oc=5",
+      "excerpt": "清华大学宣布：黄仁勋、苏姿丰共同加入 凤凰网",
+      "publishedAt": "2026-09-29T10:12:25.000Z",
+      "category": "tech",
+      "source": "Google News · 黄仁勋"
+    },
+    {
       "sourceId": "gnews-jensen-en",
-      "title": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety - ft.com",
+      "title": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGJaQTBSQ0s5R3JwT2JrZWU0TGJJbGFCaHVDNFpheUJEaEVDTGFBZi1vMzlONEFKRkV3RGJUb3pCT2tlYzl6UnlfbGNKOXBFNkU5dHZoT2liNjRWWHJXZmhKR01DZ1lYelIwUlVvWU0zNW1VWXlKMmllY1lEVDB6aFcwSDQ?oc=5",
-      "excerpt": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety ft.com",
+      "excerpt": "Pope Leo criticises Nvidia’s Jensen Huang over AI safety Financial Times",
       "publishedAt": "2026-09-28T23:51:14.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
@@ -2422,19 +2692,10 @@
     },
     {
       "sourceId": "gnews-jensen-en",
-      "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iclhOaUhUeDFGRDNBZWJzNWFOWUVtaVBwck91TFE4Um5rUDJ5Z1RsRXJSN2VWTUR3X2lmV0x5cDRqZEM5aDRwLVp5OWpzOHNtV2phY2hVNTF5NWo5M0JpYW1rcEhqTHFSTmZqZl9KSTdNZkt0QWhrZQ?oc=5",
-      "excerpt": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever The New York Times",
-      "publishedAt": "2026-09-28T13:49:59.000Z",
-      "category": "tech",
-      "source": "Google News · Jensen Huang"
-    },
-    {
-      "sourceId": "gnews-jensen-en",
-      "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cmVmSXJrWFJ1RkRhbWNrNmVfUGVqNkM3M1UwY09SREhJRUJPREMxZ0VOcjc0ZjN6c3BPbEFuaDVKVTJQbDRhRXdCazB6TG43eXlSeW5DNzd2MmdvOUg4S2d6TC1YbWM1RHN6QktBdVE?oc=5",
-      "excerpt": "Nvidia launches new tool to keep AI agents from going rogue CNN",
-      "publishedAt": "2026-09-28T12:07:52.000Z",
+      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+      "excerpt": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' Yahoo Finance Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights CNBC Opinion | AI doesn’t need a conscience. It needs a leash. The Washington Post",
+      "publishedAt": "2026-09-28T10:36:57.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2449,19 +2710,19 @@
     },
     {
       "sourceId": "gnews-jensen-en",
-      "title": "LinkedIn’s CEO on How AI Is Reshaping Hiring - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ21uV0pTVUJmVkkxeHNRUWNPNnVYdnA3R2VnTkdBMHJXelRSVjR4N2dDc1FjbWtybzhxRUprc2pRVVZVcDVSWXhTT1FqVUlCRGg4dmFwZlNxT1loNkg1dl9OUGhTcnEyYzNMWWJqbmxIdnBMOGFUQjhjZEcyeWo4SnEwWDBwSzhtYnNDZw?oc=5",
-      "excerpt": "LinkedIn’s CEO on How AI Is Reshaping Hiring WSJ",
-      "publishedAt": "2026-09-29T12:34:00.000Z",
+      "title": "Behind NVIDIA's Record Buyback: Jensen Huang Deems the Company's Stock Irresistibly Cheap - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXhtQ3RwR3czYkNQUWh4MVNBYkhGV2Zza0R1RjM5eFBpUm1JSXk1VzBwU1BqRDJiSnRXZTd1ZnBidWpDTDVEcXhRdXc1bGNRQlFtSUdPTWtFZ3lMaHFVQ0F1cjN4akFlUnQ4cnlacGtsbHhDYWlpTzl1Skd3WjBZU0FIckxTREJsak1jalNlQzhMQWpualU5UVhIak0yRmRyRVZ5VDBFTUY?oc=5",
+      "excerpt": "Behind NVIDIA's Record Buyback: Jensen Huang Deems the Company's Stock Irresistibly Cheap Moomoo",
+      "publishedAt": "2026-09-29T14:49:14.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
     {
       "sourceId": "gnews-jensen-en",
-      "title": "Behind NVIDIA's Record Buyback: Jensen Huang Deems the Company's Stock Irresistibly Cheap - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSXhtQ3RwR3czYkNQUWh4MVNBYkhGV2Zza0R1RjM5eFBpUm1JSXk1VzBwU1BqRDJiSnRXZTd1ZnBidWpDTDVEcXhRdXc1bGNRQlFtSUdPTWtFZ3lMaHFVQ0F1cjN4akFlUnQ4cnlacGtsbHhDYWlpTzl1Skd3WjBZU0FIckxTREJsak1jalNlQzhMQWpualU5UVhIak0yRmRyRVZ5VDBFTUY?oc=5",
-      "excerpt": "Behind NVIDIA's Record Buyback: Jensen Huang Deems the Company's Stock Irresistibly Cheap Moomoo",
-      "publishedAt": "2026-09-29T14:49:14.000Z",
+      "title": "LinkedIn’s CEO on How AI Is Reshaping Hiring - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ21uV0pTVUJmVkkxeHNRUWNPNnVYdnA3R2VnTkdBMHJXelRSVjR4N2dDc1FjbWtybzhxRUprc2pRVVZVcDVSWXhTT1FqVUlCRGg4dmFwZlNxT1loNkg1dl9OUGhTcnEyYzNMWWJqbmxIdnBMOGFUQjhjZEcyeWo4SnEwWDBwSzhtYnNDZw?oc=5",
+      "excerpt": "LinkedIn’s CEO on How AI Is Reshaping Hiring wsj.com",
+      "publishedAt": "2026-09-29T12:34:00.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2476,10 +2737,19 @@
     },
     {
       "sourceId": "gnews-jensen-en",
-      "title": "Breakingviews - COMMENTARY: Jensen Huang's invisible hand is tied on AI safety - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzVsSmFHenZnbnlmbzh5eHhSZnNqbnVzcnhDMk9WaDNiZlQ4S3lxR3UtSnFFMkVHVFRqamR6Qi1HR0YzUVVlRWdJdllTZWVjRzEwWHlwUmhZOHpsaHV1SmR5QkRYcXY1SXlCWnNHalBKV2RRbUpRRWVOWmFRMW9WU1BPR3ZNSkl5NTFMQkR6cGw1aV9ucTNRMHNlMGdjZEhXZDAwUGpQemp6cVE?oc=5",
-      "excerpt": "Breakingviews - COMMENTARY: Jensen Huang's invisible hand is tied on AI safety reuters.com",
-      "publishedAt": "2026-09-28T16:12:00.000Z",
+      "title": "Nvidia just greenlit the biggest buyback in stock market history - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjc5d1N6dE5zZjlzUHVyWERsbWZIU1NzaUZnRFRBUkpBMHAzZFRaTG5uYVRMT05hRWUzb21PdW1WM3p0QjlVYUNSOFFYT0liRGRRMWhFLTZpY3VpOXE4b3lsVXlOM1ZXSmNfaVVFdU5kMmRfWV9lRGxJcjlLV21FWHFSUUlTendUZlZNSDF4cDdpdHI5UUtycmJTYVZnNjlFMjg5dklB?oc=5",
+      "excerpt": "Nvidia just greenlit the biggest buyback in stock market history Business Insider",
+      "publishedAt": "2026-09-28T12:43:00.000Z",
+      "category": "tech",
+      "source": "Google News · Jensen Huang"
+    },
+    {
+      "sourceId": "gnews-jensen-en",
+      "title": "Pope Leo Says AI Safety Fears Are Not ‘Fake News’ And Criticizes Nvidia’s Billionaire CEO - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdWxpVDhjNC10emdPRF9YaTBtc2t1UUV6OWhuTDA5YnI0Rk9tOTdEbEd3TVVxa0V2VExVSFFlVWhUeWhqOTRBN1duYk9mX2tmQ0IzcUVPLVprY2RSSU8yNnIzSV8tVjFSN1ZTbUl1d1JqejFvdms4UHJIVlN1Mi1JcUZsSTcyekRVVXdqQXR6eU1GcF96dXIzYnB6RVN0cHNPcDg2QkhFdTg0M1d4dVRsSkp1dnE3OWFGZkd0a2NqYU9yRW5jQ3haekNSVTlraE11eGJzdXZzNA?oc=5",
+      "excerpt": "Pope Leo Says AI Safety Fears Are Not ‘Fake News’ And Criticizes Nvidia’s Billionaire CEO forbes.com",
+      "publishedAt": "2026-09-29T04:43:40.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2509,7 +2779,7 @@
       "publishedAt": "2026-09-29T23:02:22.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据upi.com报道，三星与SK集团领导人出席纽约一场盛会，与英伟达首席执行官黄仁勋同场。报道未披露各方会谈的具体内容。"
+      "summary": "据upi.com报道，三星与SK集团高层出席纽约一场晚宴活动，与英伟达CEO黄仁勋同场。报道未披露会谈具体内容。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2519,7 +2789,7 @@
       "publishedAt": "2026-09-29T21:44:33.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据雅虎财经报道，英伟达首席执行官黄仁勋表示，推进人工智能数据中心建设将在美国创造100万个就业岗位。"
+      "summary": "英伟达CEO黄仁勋表示，推动AI数据中心建设将在美国创造约100万个就业岗位。相关表态由Yahoo Finance报道。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2529,7 +2799,7 @@
       "publishedAt": "2026-09-29T22:45:58.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据路透社报道，美国总统特朗普与多家人工智能企业首席执行官签署一份自愿性安全协议，并表态支持数据中心扩建。"
+      "summary": "据路透社报道，美国总统特朗普与多家AI企业CEO共同签署一份自愿性人工智能安全协议，并表态支持数据中心扩建。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2537,15 +2807,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
       "excerpt": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management South China Morning Post",
       "publishedAt": "2026-09-29T05:20:17.000Z",
-      "category": "tech",
-      "source": "Google News · Jensen Huang"
-    },
-    {
-      "sourceId": "gnews-jensen-en",
-      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
-      "excerpt": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment NVIDIA Newsroom",
-      "publishedAt": "2026-09-28T22:54:06.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2560,13 +2821,22 @@
     },
     {
       "sourceId": "gnews-jensen-en",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
+      "excerpt": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment nvidianews.nvidia.com",
+      "publishedAt": "2026-09-28T22:54:06.000Z",
+      "category": "tech",
+      "source": "Google News · Jensen Huang"
+    },
+    {
+      "sourceId": "gnews-jensen-en",
       "title": "Trump, Jensen Huang and Elon Musk try to calm voter fears about AI - thenationalnews.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRU1ibnNSRHlSdXN6by1WaWlSMXVxNllRaTFxY3ZnN2dUdUdWZk9GTkxKd3VWTmI2SlZvM1U5Z0tHOHVwcWE3TGpid0JYUlBZWXFQOVRNRWRuNDQ3VnYtTVlMYVVlcTNtRU12c2V6ZUR2TXhaaHM2U1FuWkNUVG9JOFEydXhSWGd4cXRHM3NWOVhvOERxQmh2dQ?oc=5",
       "excerpt": "Trump, Jensen Huang and Elon Musk try to calm voter fears about AI thenationalnews.com",
       "publishedAt": "2026-09-29T21:21:28.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据thenationalnews.com报道，特朗普、英伟达首席执行官黄仁勋与埃隆·马斯克共同出面，试图缓解选民对人工智能的担忧。"
+      "summary": "据thenationalnews.com报道，美国总统特朗普、英伟达CEO黄仁勋与特斯拉CEO马斯克共同出面，试图缓解选民对人工智能发展的担忧。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2579,22 +2849,13 @@
     },
     {
       "sourceId": "gnews-jensen-en",
-      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
-      "excerpt": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' Yahoo Finance",
-      "publishedAt": "2026-09-28T10:36:57.000Z",
-      "category": "tech",
-      "source": "Google News · Jensen Huang"
-    },
-    {
-      "sourceId": "gnews-jensen-en",
       "title": "Nvidia CEO Jensen Huang: There's no conflict between innovation, technology and safety - CNBC",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHVhUV9BVU5aVU9zcDNnamRhUm9zRnBuaDFXZXVmQ1BNTEV0SjFOZ0IycHFrek5SQnR0X3V5aE1VMW5UVnc3ejNjOXFQZThFRXdzLV9QYm94NlplRWNaNDE1cnFaVjFFWWF3bVVMQ1NoOUFzTGdBTDd4ZHBtX0pzNlNQb3ZDaFlNR2VrRFQtNFVMYTZjWF9nV25PZkdla2dCRFV4V3Z5ZFJBRGQ3M1F0ZG1pSXZBdlJmTzliN0dueUhCeFNk?oc=5",
       "excerpt": "Nvidia CEO Jensen Huang: There's no conflict between innovation, technology and safety CNBC",
       "publishedAt": "2026-09-29T20:11:13.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据CNBC报道，英伟达首席执行官黄仁勋就人工智能安全议题表态，称创新、技术与安全之间并不存在冲突。"
+      "summary": "英伟达CEO黄仁勋在CNBC节目中表示，创新、技术进步与安全之间并不存在冲突。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2611,15 +2872,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2JtelBSXzZZb2hjeDVwbEhxNnVHVURiU21Na24tdXFEQlg3WTBydXI0RVkxd2hEQzJLeWwxM2xubWlCLWhvTFdSaDhLX1BTWUZ3aTNnOXB2RVBFUjFGV3VrZFR0Qi02ODRkVkw4UTB1Q3JGdE8xTmZvV1BaSXdTZXlfYUJQYV9aUGM1dExsOUM5UmxkdDJSQw?oc=5",
       "excerpt": "Nvidia CEO Jensen Huang says ‘nothing would give me more joy’ than to pay more taxes: ‘I'm just afraid of being poor’ Yahoo Finance",
       "publishedAt": "2026-09-29T10:45:00.000Z",
-      "category": "tech",
-      "source": "Google News · Jensen Huang"
-    },
-    {
-      "sourceId": "gnews-jensen-en",
-      "title": "Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLU92Q1luamJ3SktxM0ZQTUNhdE9HQUZkcndQeWdWcTQ2b0FwRldIaldsVUMtXzBvWHA3SnZmdDF1YUdCdnBSOERGOEpNdVQzaTExTkxZQzBSZ2FxWDN0RTZHMGRublpYNnA3OGw3bnQyOGNySXgxQ2V4X1pydllhZC00VXZIYXpDTlYwZlBRdEtKdjEwVlFlRzEyUmp4aU9mM0RERThySjgxVi1Sd1hBZE03Mms5SlRiaDNVdTJZSEE0emxTYmhQN0Y0cUZ1c20yakFJ?oc=5",
-      "excerpt": "Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights CNBC",
-      "publishedAt": "2026-09-28T12:23:00.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2658,7 +2910,7 @@
       "publishedAt": "2026-09-29T22:38:11.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang",
-      "summary": "据Roll Call报道，多家人工智能企业高管在白宫受到接待，而美国国会在相关人工智能政策讨论中仍处于相对次要的位置。"
+      "summary": "据Roll Call报道，在白宫接待人工智能企业高管之际，美国国会在相关AI政策议程中仍扮演次要角色，未居于主导地位。"
     },
     {
       "sourceId": "gnews-jensen-en",
@@ -2666,6 +2918,24 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMHd0WE4yUXBWem9UU0l5UHcxbnpIamt3LURzSmRLY3FoR2R4Y3hlNHFUa1RhMXFjMTlydFBmRGVVQmNoYjdvT1V0N3I4Rk5INjB6RnkycDhEV1RBNGI1YVlLcXZyUUxGdGZzeTFpejNtODZXY2pJS3hVdmZHSHphcFhOZ3VTUVRldDJRUE5yYTZLRUhWT0hVZWRHTlR4TU5CRlpOX1JHZlZPVGZwVnZpTGFLY1ExWXdJb0lUU3hGSQ?oc=5",
       "excerpt": "Understanding Jensen Huang’s AI optimism and how it influences President Trump npr.org",
       "publishedAt": "2026-09-23T21:29:23.000Z",
+      "category": "tech",
+      "source": "Google News · Jensen Huang"
+    },
+    {
+      "sourceId": "gnews-jensen-en",
+      "title": "Pope Leo pushes back on Nvidia’s Jensen Huang over AI regulation (NVDA:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONC1Jd05zbmRBVGRlNVN0YTJHQklremJkdE83WVUweVNJLUQzUmJiZkNJTmhQRTJ1TXFuSnA4X19OZjRzYWk3MnZUS0c0eXRCbGxRbkNYWHRuLUlMNVkwUllCQzBITzVVLWhLUkNQelpTeFI1a0FmTlk5ZkN4UXJvOFRqc3JuWG5PQ2hrNGpkSWVQX2kteHoyVU1TUXo3amZCTUk4?oc=5",
+      "excerpt": "Pope Leo pushes back on Nvidia’s Jensen Huang over AI regulation (NVDA:NASDAQ) Seeking Alpha",
+      "publishedAt": "2026-09-29T09:15:17.000Z",
+      "category": "tech",
+      "source": "Google News · Jensen Huang"
+    },
+    {
+      "sourceId": "gnews-jensen-en",
+      "title": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm8waVZKNWVxY3ZfVUVnWS1BczZsV0R0azZEVnBfb3JfWVJ4dDlQSlBJaFp5RVhRdjZsUWJGUDllUzFtaWRvVUw1dHVUaGdXbHdnN2I2Z3JNNFpuMWIycGRiSmxGdkxsTEZkWnVMQUZVTnZEd2tVaHo0SUFxWGIwRkoyd3hzUHNZODVRRkhJZnU2eXhjWHFxRzZBLTZpbnhlYVZKZHBfcUdZZ9IBrwFBVV95cUxOTXVYSzZ4LVpyb3FtaGc4UTFXOG9GTXViRjFuWnc1eVJ6SlZ5VXFtVDZGVVhCU2lJb3Q0bXVreURvb2kwbDk4UUg3LS0zMG9RZ2NyWDdOa0RyLUE3bmswV0pjVzJhVWJXazhvcDZZZ2dVa3dlLTFaU1VDblhWbzYxQVBXcnoxWHFucktja0JyX0hKdGhQUWdXdW9naXFSZk90RlRWa0JTRE5BR2VnYWNr?oc=5",
+      "excerpt": "Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist CNBC",
+      "publishedAt": "2026-09-29T11:00:01.000Z",
       "category": "tech",
       "source": "Google News · Jensen Huang"
     },
@@ -2678,7 +2948,18 @@
       "category": "tech",
       "meta": "@n2parko · 5.7K 粉丝 · 274.2K 阅 · 533 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Bot 发布以来最大的一次改动：Team Bots 上线。作者以团队成员身份说明为什么要做这批「数字同事」，以及它们可能如何改变人们的分工协作方式，属于产品发布加设计理念的说明。"
+      "summary": "Grok Bot 自上线以来最大的一次改动：正式推出 Team Bots，作者解释这套「数字同事」为何要做成可组队的形态，以及它可能如何改变团队分工与协作方式。属于产品发布加设计理念分享。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "The FDE boom is a product gap ",
+      "url": "https://x.com/EugenAlpeza/status/2104936003282546913",
+      "excerpt": "The industry is hiring its way around a missing product. Every enterprise trying to put agents to work runs into the same problem: agents don’t know how the company operates, and the operators who do,",
+      "publishedAt": "2026-09-29T14:07:05.000Z",
+      "category": "tech",
+      "meta": "@EugenAlpeza · 2.5K 粉丝 · 96.2K 阅 · 539 赞 · 50 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "作者认为企业落地 agent 卡在同一个坑：agent 不了解公司实际运作方式，而懂流程的一线人员又没被拉进产品设计，于是只能靠大量招 FDE（前向部署工程师）来补产品缺口。属于 agent 落地的行业观察。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2689,7 +2970,7 @@
       "category": "tech",
       "meta": "@0xMovez · 36.4K 粉丝 · 78.9K 阅 · 737 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "针对用 Opus 5.5 做 motion design 的典型翻车点——画面只有居中文字叠渐变、全片 fade in、结尾硬塞 logo，根源是不给参考素材。作者以完整课程形式讲怎么搭建工作室级动效工作流。"
+      "summary": "用 Opus 5.5 做 motion design 的完整课程。作者先点出多数人翻车的原因——不给参考素材，只做出居中文字加渐变、全部淡入结尾放 logo 的模板化视频，再据此拆解如何给模型参考、控制画面节奏。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2700,7 +2981,7 @@
       "category": "tech",
       "meta": "@GoogleAI · 2.5M 粉丝 · 69.4K 阅 · 508 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google 官方介绍实验性 AI agent「CC」，定位家庭场景：繁忙日程、爆满邮箱、无穷待办，还要频繁切换上下文。属于 Google 在家庭助理方向的新尝试，强调对家庭语境的理解能力。"
+      "summary": "Google 发布实验性 AI agent CC，面向家庭场景，主打帮用户管理家庭日程、拥挤的收件箱和待办清单，本质是替家庭承担上下文切换与多任务调度。属于官方产品发布，把个人助理延伸到多人协作的家务场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2711,7 +2992,7 @@
       "category": "tech",
       "meta": "@joedaroo · 12.2K 粉丝 · 41.2K 阅 · 517 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一名安全从业者从内部视角复盘近期一系列 AI 事故，指出外界讨论多停留在外部推演，很少听到亲历者的声音。角度是安全人如何在真实事故中处置，而非又一篇围观式评论。"
+      "summary": "一名安全从业者从内部视角复盘近期一系列 AI 事故，认为外界讨论大多停留在「沙箱没做好」这一层，忽略了真实运行环境里的约束与取舍。属于一线安全人员的经验拆解，而非单纯的技术批评。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2722,7 +3003,7 @@
       "category": "tech",
       "meta": "@RaphaelAubryy · 393 粉丝 · 40.9K 阅 · 507 赞 · 42 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "3 天用 Opus 5.5 产出 10 多条 motion 视频，并把整套 pipeline 开源。作者点出多数人的通病：首版画面平庸、音乐与画面各走各的、反复返工，重点在于给出可复用的完整制作流程。"
+      "summary": "作者 3 天内用 Opus 5.5 产出 10 多支 motion 视频，并把整套 pipeline 开源。从痛点切入——首版渲染很平庸、音乐与画面各走各的——逐步拆解提示、参考素材与合成环节，属于可直接复用的实战工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2733,7 +3014,7 @@
       "category": "tech",
       "meta": "@twoclipping · 7.5K 粉丝 · 40.5K 阅 · 510 赞 · 35 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "把工作室报价 5000 到 15000 美元的 motion design 流程完全开源：0 MCP、0 外部工具，也不需要买任何订阅，纯靠 Opus 5.5 做产品发布视频，属于高价外包工作流的平替方案。"
+      "summary": "作者开源自己制作发布视频（launch video）的完整流程，对标工作室 5000 至 15000 美元的报价，自己零成本完成。强调全程 0 MCP、0 外部工具、不卖订阅，核心是用 Opus 5.5 做 motion design 的可复制教程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2744,7 +3025,26 @@
       "category": "tech",
       "meta": "@lilykeilani011 · 3.0K 粉丝 · 10.7K 阅 · 521 赞 · 71 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "观点贴：社媒上对 AI 生成艺术的抵制声量很大，任何相关帖子下都能刷到成百条负评。作者认为问题不在 AI 本身，而在于人们不愿承认自己喜欢它，属于立场与审美之争而非工具分享。"
+      "summary": "一篇观点帖：社交平台上对 AI 生成艺术的抵触非常显眼，任何相关帖子下都有大量负面评论，但作者认为问题不在 AI 本身，而在于很多人不愿承认自己其实喜欢。属于 AI 艺术接受度的话题讨论，非教程或工具分享。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Fields Said to Mull Sweeter Northern Star Bid With Cash",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-29/gold-fields-said-to-weigh-sweetening-northern-star-bid-with-cash",
+      "excerpt": "Gold Fields Ltd. is considering a sweetened takeover bid for Northern Star Resources Ltd., according to people familiar with the matter, as the South African miner seeks to overcome resistance to a deal that would create the world’s second-largest gold producer.",
+      "publishedAt": "2026-09-29T19:18:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Can Treasury Yields Hit 6%?",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-30/can-treasury-yields-hit-6-video",
+      "excerpt": "Bloomberg MLIV strategist Mark Cranfield warns 10-year Treasury yields could climb to 6% as Federal Reserve policy, elevated oil prices, and geopolitical tensions maintain upward pressure. (Source: Bloomberg)",
+      "publishedAt": "2026-09-30T00:27:29.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "彭博MLIV策略师马克·克兰菲尔德警告，受美联储政策、油价高企及地缘政治紧张持续带来的上行压力影响，10年期美国国债收益率可能攀升至6%。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2754,6 +3054,16 @@
       "publishedAt": "2026-09-29T22:02:03.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Dollar Powers to Best Month Since June on Fed’s Inflation Fight",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/dollar-powers-to-best-month-since-june-on-fed-s-inflation-fight",
+      "excerpt": "The dollar is wrapping up its best month since June as the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+      "publishedAt": "2026-09-30T00:18:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "由于美联储重新聚焦遏制通胀，推高利率预期与美国国债收益率，美元正录得自6月以来最佳单月表现。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2772,7 +3082,7 @@
       "publishedAt": "2026-09-30T00:04:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "受大宗商品行情带动，蒙古股市本季度有望成为全球表现最佳市场。这个内陆北亚国家因商品繁荣而与波动剧烈的人工智能交易相对隔离。"
+      "summary": "受大宗商品上涨行情推动，蒙古股市本季度有望成为全球表现最佳市场，其资源型经济使其免受波动剧烈的AI交易影响。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2782,7 +3092,7 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "韩国股市即将比预期更早失去一项关键支撑：规模400亿美元的股票回购支持提前结束，而市场正难以明确向上突破。"
+      "summary": "韩国股市即将提前失去一项关键支撑，规模400亿美元的股票回购支持将早于预期结束，而市场此时正艰难寻求进一步上行。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2792,7 +3102,7 @@
       "publishedAt": "2026-09-29T23:58:58.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "金价在周二上涨后企稳，交易员正在权衡两方面因素：油价下跌缓解了能源驱动的通胀担忧，而美国国债收益率仍处高位。"
+      "summary": "金价持稳，此前于周二上涨。交易员正在油价下跌缓解能源通胀担忧与美国国债收益率高企之间进行权衡。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2899,33 +3209,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-09-29/cmhc-on-canada-s-housing-market-video",
       "excerpt": "Mathieu Laberge, Chief Economist & Senior Vice President, Housing Insights, CMHC, discusses the outlook for Canadian homebuilding, prices and demand and what is required to bring new housing to market at greater speed and scale, with Bloomberg’s Paula Sambo at the 2026 Canadian Finance Conference. (",
       "publishedAt": "2026-09-29T21:28:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-      "excerpt": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
-      "publishedAt": "2026-09-29T21:19:19.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "OFA, CMHC on Public-Sector Funding",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/ofa-cmhc-on-public-sector-funding-video",
-      "excerpt": "Carlos Yep, Director, Funding, Ontario Financing Authority and David Ayre, Treasurer, CMHC, discuss how two of Canada’s largest public-sector issuers are navigating funding needs, market volatility and changing investor demand, with Bloomberg’s Chunzi Xu at the 2026 Canadian Finance Conference. (Sou",
-      "publishedAt": "2026-09-29T21:08:13.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "IDB Invest, IFC on the Social Impact of Macro Shocks",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-29/idb-invest-ifc-on-the-social-impact-of-macro-shocks-video",
-      "excerpt": "Eusebio Garre, Director & Head of Funding, IDB Invest and Yuri Kuroki, Head of Funding, IFC, discuss how inflation, higher rates, energy volatility and weaker growth are affecting investment in infrastructure, housing and essential services and how development finance institutions can respond, with ",
-      "publishedAt": "2026-09-29T20:50:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3111,13 +3394,23 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Pentagon awards Boeing $20bn contract for Navy stealth fighter jet",
+      "url": "https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1",
+      "excerpt": "Virginia-headquartered company marks a revival of its role with the defence department",
+      "publishedAt": "2026-09-30T00:31:13.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "美国五角大楼向总部位于弗吉尼亚州的波音公司授予价值200亿美元的合同，用于建造美国海军隐形战斗机，此举被视为波音在国防部角色的复苏。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
       "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
       "excerpt": "President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders",
       "publishedAt": "2026-09-29T23:13:44.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国总统特朗普在与科技行业领袖共进午餐后表示，这些首席执行官已签署一份「道德上有约束力」的协议，并称赞他们对AI的「出色的自我监管」。"
+      "summary": "美国总统特朗普在与科技行业领袖共进午餐后表示，这些首席执行官已签署一项「道德上有约束力」的协议，并称赞科技老板对AI的「极大的自我监管」。"
     },
     {
       "sourceId": "ft-companies",
@@ -3126,8 +3419,7 @@
       "excerpt": "Profits in UK business jump even as accounting and consulting sector confronts AI disruption",
       "publishedAt": "2026-09-29T23:01:02.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "德勤英国合伙人平均薪酬升至创纪录的110万英镑，公司同时裁员；尽管会计与咨询行业面临AI冲击，其英国业务利润仍大幅增长。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3136,8 +3428,7 @@
       "excerpt": "The UK’s imminent end of the duty-free loophole for low-cost imports will benefit the Hong Kong-listed company’s rivals",
       "publishedAt": "2026-09-29T23:01:02.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "英国即将取消低成本进口商品的免税漏洞，这将利好Shein在英国高街的竞争对手；这家在港上市公司的困境成为英国实体零售商的机遇。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3329,23 +3620,13 @@
       "source": "Financial Times"
     },
     {
-      "sourceId": "ft-companies",
-      "title": "Brussels’ protectionist turn spooks bloc’s free-market stalwarts",
-      "url": "https://www.ft.com/content/27fb5d30-1fb6-4f30-937c-ff5c598eaaa5?syn-25a6b1a6=1",
-      "excerpt": "Also in this newsletter: energy ministers brace for winter",
-      "publishedAt": "2026-09-29T05:00:11.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
       "sourceId": "bbc-business",
       "title": "Household energy bills forecast to see biggest rise in four years",
       "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "excerpt": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
       "publishedAt": "2026-09-29T23:03:13.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "根据一项关键预测，自明年1月起，英国典型家庭的年度燃气和电费账单将升至1999英镑，为四年来最大涨幅。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -3364,7 +3645,7 @@
       "publishedAt": "2026-09-29T23:06:14.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "女性DIY达人与手艺工人讲述在传统上由男性主导领域的经历，有人表示「我喜欢证明别人看错了」。"
+      "summary": "女性DIY达人与女技工讲述了她们在传统上由男性主导的DIY和管道工领域的从业经历。"
     },
     {
       "sourceId": "bbc-business",
@@ -3374,7 +3655,7 @@
       "publishedAt": "2026-09-29T23:06:06.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国广告监管机构禁止Huel的一则广告，认为观众可能从中得出以该品牌产品完全替代常规食物在营养上是合适的印象。"
+      "summary": "英国广告监管机构禁播Huel的一则广告，认为观众可能从中得出用Huel完全替代常规食物在营养上是合适的结论。"
     },
     {
       "sourceId": "bbc-business",
@@ -3384,7 +3665,7 @@
       "publishedAt": "2026-09-29T23:15:29.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "Mindgard称其7月发现Kimi模型K2.6与K3 Swarm可绕过开发者设置的安全限制，该中国AI工具曾向研究人员提供制造生物武器的信息。"
+      "summary": "安全公司Mindgard表示，其于7月发现中国AI模型Kimi的K2.6与K3 Swarm可绕过开发者设置的安全限制，并向研究人员提供制造生物武器的方法。"
     },
     {
       "sourceId": "bbc-business",
@@ -3394,7 +3675,7 @@
       "publishedAt": "2026-09-29T23:06:50.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "多家初创企业希望将电池制造带回美国，认为基于钠离子技术的电池可使用美国本土采购的原材料进行生产。"
+      "summary": "部分初创企业希望将电池制造迁回美国，计划以本土采购的材料生产基于钠离子技术的电池。"
     },
     {
       "sourceId": "bbc-business",
@@ -3413,7 +3694,7 @@
       "publishedAt": "2026-09-29T23:47:10.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "OpenAI在旧金山年度开发者活动上发布AI助手「dots」，但因安全担忧推迟新模型发布。首席执行官Sam Altman出席并发言。"
+      "summary": "OpenAI在旧金山举行的年度开发者活动上发布AI助手「dots」，首席执行官萨姆·奥尔特曼出席活动；与此同时，出于安全担忧，新模型发布被推迟。"
     },
     {
       "sourceId": "bbc-business",
@@ -3900,7 +4181,7 @@
       "publishedAt": "2026-09-29T23:15:29.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "英国公司Mindgard称，其于7月发现中国的Kimi模型K2.6和K3 Swarm可绕过开发者设置的安全限制，并向研究人员提供制造生物武器的方法。"
+      "summary": "英国公司Mindgard称，其于7月发现中国Kimi模型K2.6与K3 Swarm可绕过开发者设定的安全限制，向研究人员提供制造生物武器的方法。"
     },
     {
       "sourceId": "bbc-world",
@@ -3909,8 +4190,7 @@
       "excerpt": "The deaths sparked a national outcry about the scale of violence against women in the country.",
       "publishedAt": "2026-09-29T22:33:39.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "南非发生12名女性遇害事件，引发全国对女性遭受暴力问题规模的强烈愤慨，政府表示将在高风险地区展开清理整治行动。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -4082,7 +4362,7 @@
       "publishedAt": "2026-09-29T23:33:34.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乌克兰仅存的钢铁厂因俄罗斯持续导弹袭击而几乎全面停产，钢铁业作为该国经济的重要支柱已接近被摧毁。"
+      "summary": "受俄罗斯持续导弹袭击影响，乌克兰仅存的钢铁厂几乎全部停产，作为该国经济重要支柱的钢铁产业遭受重创。"
     },
     {
       "sourceId": "bbc-world",
@@ -4293,23 +4573,23 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: signals directorate head says ‘content’ of OpenAI’s apology worth looking at; six Australian universities in top 100 global rankings",
+      "title": "News live: Alan Kohler announces retirement from ABC after 31 years; six Australian universities in top 100 global rankings",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
       "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge? Get your dirty hands off our kids, that is o",
-      "publishedAt": "2026-09-30T00:14:55.000Z",
+      "publishedAt": "2026-09-30T00:21:52.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚新闻直播：信号局负责人表示，OpenAI道歉的内容值得关注；另有六所澳大利亚大学进入全球大学排名前100。"
+      "summary": "澳大利亚广播公司（ABC）财经评论员艾伦·科勒宣布退休，结束在该机构31年的工作；同时有六所澳大利亚大学进入全球大学排名前100。"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Rumoured frontrunner David Shoebridge launches leadership bid ahead of Greens ballot at party retreat",
+      "title": "David Shoebridge launches leadership bid ahead of Greens ballot at party retreat",
       "url": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters",
       "excerpt": "Shoebridge to stand on a joint ticket with Steph Hodgins-May – a first-term senator from Victoria Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast New South Wales senator David Shoebridge has joined the race to become the Greens’ new ",
       "publishedAt": "2026-09-30T00:02:02.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州参议员大卫·舒布里奇宣布竞选绿党领袖，将与维多利亚州首任参议员斯蒂芬·霍金斯-梅组成联合竞选团队，绿党将在党内务虚会上投票。"
+      "summary": "新南威尔士州参议员戴维·舒布里奇宣布角逐澳大利亚绿党党魁，将与维多利亚州首任参议员斯蒂芬·霍金斯-梅组成搭档参选，党内投票将在绿党集思会期间举行。"
     },
     {
       "sourceId": "guardian-world",
@@ -4319,7 +4599,7 @@
       "publishedAt": "2026-09-29T22:50:41.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "绿党前领袖亚当·班特与鲍勃·布朗在领袖角逐前阐述愿景；资深绿党人士称，拉里萨·沃特斯的继任者必须「不惜一切手段」阻止工党批准化石燃料项目。"
+      "summary": "绿党前领袖亚当·班特与鲍勃·布朗在党魁角逐前阐述对绿党的愿景，党内资深人士要求拉里萨·沃特斯的继任者「不惜一切手段」阻止工党批准化石燃料项目。"
     },
     {
       "sourceId": "guardian-world",
@@ -4347,7 +4627,7 @@
       "publishedAt": "2026-09-29T23:27:30.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "法国各地学生封锁学校，抗议班级规模过大、课程安排过密和教职人员短缺，警民冲突升级，周二已有400多人被拘留，其中多数为未成年人。"
+      "summary": "法国多地学生封锁学校，抗议班级规模过大、课表过满与师资短缺，抗议活动演变为暴力冲突；周二共有400多人被拘留，其中多数为未成年人。"
     },
     {
       "sourceId": "guardian-world",
@@ -4435,9 +4715,10 @@
       "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
       "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
       "excerpt": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.",
-      "publishedAt": "2026-09-29T19:39:44.000Z",
+      "publishedAt": "2026-09-30T00:19:18.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "以色列最高法院此前下令军方确保一户因暴力逃离的约旦河西岸巴勒斯坦家庭返回家园，但定居者阻挠该行动，当局被指未采取足够措施应对。"
     },
     {
       "sourceId": "nyt-world",
@@ -5068,7 +5349,7 @@
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国总统特朗普再次表示，伊朗战争将很快结束，但未给出任何细节；他同时重申德黑兰不会拥有核武器。"
+      "summary": "美国总统特朗普称伊朗战争将「很快」结束，但未提供任何细节，并再次重申德黑兰不会拥有核武器。"
     },
     {
       "sourceId": "aljazeera",
@@ -5078,7 +5359,7 @@
       "publishedAt": "2026-09-29T23:53:08.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国总统特朗普表示计划在中期选举前进行为期32天的竞选活动，并淡化外界对其支持率的担忧；选民则对生活成本与对伊朗战争表示不满。"
+      "summary": "美国总统特朗普表示计划在中期选举前开展为期32天的竞选活动，并淡化外界对其支持率的担忧；选民则对生活成本与伊朗战争表达不满。"
     },
     {
       "sourceId": "aljazeera",
@@ -5088,7 +5369,7 @@
       "publishedAt": "2026-09-29T23:49:18.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "卡塔尔首相在接受皮尔斯·摩根采访时谴责加沙发生的暴行，称「没有任何理由可以为此开脱」，并表示多哈将继续坚持外交努力、推动中东和平调解。"
+      "summary": "卡塔尔首相在接受皮尔斯·摩根采访时谴责加沙发生的暴行，称没有任何理由可为这些行为开脱，并表示多哈将继续坚持外交、推动中东和平调解。"
     },
     {
       "sourceId": "aljazeera",
@@ -5098,7 +5379,7 @@
       "publishedAt": "2026-09-29T23:43:32.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "特朗普与多家顶级科技公司签署协议，推动人工智能开发「自我监管」。协议称企业将为自身AI系统实施「健全的内部控制」，以应对日益上升的安全担忧。"
+      "summary": "特朗普与多家头部科技公司签署协议，要求企业为人工智能系统实施「强有力的内部控制」以自我监管，此举正值外界对AI安全的担忧不断加剧。"
     },
     {
       "sourceId": "aljazeera",
@@ -5108,7 +5389,7 @@
       "publishedAt": "2026-09-29T23:28:47.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国前特别检察官杰克·史密斯在参议院听证会上为其对特朗普的调查辩护，否认调查不当针对共和党人及保守派团体的指控。"
+      "summary": "美国前特别检察官杰克·史密斯在气氛紧张的参议院听证会上为其针对特朗普的调查辩护，否认调查不当针对共和党人及保守派团体。"
     },
     {
       "sourceId": "aljazeera",
@@ -5118,7 +5399,7 @@
       "publishedAt": "2026-09-29T23:15:35.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "在得克萨斯州被美国移民及海关执法局人员开枪击中的委内瑞拉男子威尔伯·拉斐尔·加尔塞斯·佩雷斯被控袭击罪，他此前对政府有关枪击起因的说法提出异议。"
+      "summary": "在得克萨斯州被美国移民及海关执法局（ICE）人员开枪击中的委内瑞拉男子威尔伯·拉斐尔·加尔塞斯·佩雷斯被控袭击罪，他此前对政府关于枪击经过的说法提出异议。"
     },
     {
       "sourceId": "aljazeera",
@@ -5128,7 +5409,7 @@
       "publishedAt": "2026-09-29T23:06:53.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美军撤离之际，伊拉克迎来「主权日」，该国正着手在安全领域展开高风险的平衡行动，需应对新的安全格局带来的风险。"
+      "summary": "随着美军撤离，伊拉克在纪念「主权日」之际展开高风险的安保平衡行动，需应对新安全格局带来的各类风险。"
     },
     {
       "sourceId": "aljazeera",
@@ -5147,7 +5428,7 @@
       "publishedAt": "2026-09-29T22:38:10.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "联合国将海地帮派镇压部队的授权延长六个月。部署当地的安保人员难以在打击犯罪团伙方面取得进展，暴力仍在持续。"
+      "summary": "联合国将海地帮派镇压部队的授权延长六个月。该安全部队在打击犯罪团伙方面进展有限，当地暴力仍在持续。"
     },
     {
       "sourceId": "aljazeera",
@@ -5292,6 +5573,60 @@
       "publishedAt": "2026-09-29T18:21:33.000Z",
       "category": "politics",
       "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case",
+      "url": "https://thediplomat.com/2026/09/uzbekistans-death-penalty-debate-returns-after-child-abuse-case/",
+      "excerpt": "The debate over the death penalty is back in Uzbekistan, this time involving the country’s most senior officials.",
+      "publishedAt": "2026-09-29T19:39:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Living Under a Lethal Sky: Myanmar’s Arakan on Edge as Military Airstrikes on Civilians Grow",
+      "url": "https://thediplomat.com/2026/09/living-under-a-lethal-sky-myanmars-arakan-on-edge-as-military-airstrikes-on-civilians-grow/",
+      "excerpt": "Airstrikes are no longer intermittent dangers as they were two years ago, but a constant hazard. They are part of the people’s daily lives, woven into their collective consciousness.",
+      "publishedAt": "2026-09-29T07:02:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Why Are China and Japan Still So Focused on the ‘Enemy State Clauses’ of the UN Charter?",
+      "url": "https://thediplomat.com/2026/09/why-are-china-and-japan-still-so-focused-on-the-enemy-state-clauses-of-the-un-charter/",
+      "excerpt": "The UNGA voted to delete those sections 20 years ago. But the issue has acquired renewed political significance as Sino-Japanese relations have deteriorated.",
+      "publishedAt": "2026-09-29T15:10:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Taiwan Should Be Kept Off the Negotiating Table",
+      "url": "https://thediplomat.com/2026/09/taiwan-should-be-kept-off-the-negotiating-table/",
+      "excerpt": "The fact that Trump didn’t give anything new away on Taiwan shouldn’t obscure how much ground he has already conceded to Xi.",
+      "publishedAt": "2026-09-29T15:26:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "After the Flood, Can China, Nepal, and India Move From Earth Observation to Regional Preparedness?",
+      "url": "https://thediplomat.com/2026/09/after-the-flood-can-china-nepal-and-india-move-from-earth-observation-to-regional-preparedness/",
+      "excerpt": "A blueprint for building resilience in the Hindu Kush Himalaya.",
+      "publishedAt": "2026-09-29T14:28:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
+    },
+    {
+      "sourceId": "the-diplomat",
+      "title": "Pakistan’s Escalating Response to Cross-Border Terrorism",
+      "url": "https://thediplomat.com/2026/09/pakistans-escalating-response-to-cross-border-terrorism/",
+      "excerpt": "The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?",
+      "publishedAt": "2026-09-29T14:14:00.000Z",
+      "category": "politics",
+      "source": "The Diplomat"
     },
     {
       "sourceId": "the-diplomat",
@@ -5506,60 +5841,6 @@
       "url": "https://thediplomat.com/2026/09/assam-government-encroaches-into-a-world-heritage-site-in-indias-northeast/",
       "excerpt": "The encroached area is part of Manas National Park’s core tiger and Bengal florican habitats.",
       "publishedAt": "2026-09-28T01:31:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal",
-      "url": "https://thediplomat.com/2026/09/china-conducts-military-exercise-in-south-china-sea-after-confrontation-at-disputed-shoal/",
-      "excerpt": "The \"provisional understanding\" between Beijing and Manila over the Philippine resupply of Second Thomas Shoal appears to have broken down.",
-      "publishedAt": "2026-09-28T05:35:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Another Lao Activist Vanishes in Thailand",
-      "url": "https://thediplomat.com/2026/09/another-lao-activist-vanishes-in-thailand/",
-      "excerpt": "Khieo Lapchanh is the latest Lao exile to fall victim to the growing authoritarian collaboration between the Mekong region's governments.",
-      "publishedAt": "2026-09-28T03:02:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Filipina Drug Trafficker Walks Free After Receiving Presidential Pardon",
-      "url": "https://thediplomat.com/2026/09/filipina-drug-trafficker-walks-free-after-receiving-presidential-pardon/",
-      "excerpt": "Mary Jane Veloso has always maintained her innocence, claiming that a relative tricked into carrying a large shipment of drugs.",
-      "publishedAt": "2026-09-28T02:03:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?",
-      "url": "https://thediplomat.com/2026/09/mongolias-new-government-set-ambitious-goals-but-are-they-realistic/",
-      "excerpt": "Data centers, the Sovereign Wealth Fund, and a hydropower plant – will any of it better the lives of Mongolian people?",
-      "publishedAt": "2026-09-25T17:36:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "China’s Visibility Gap Around the Trump-Xi Summit",
-      "url": "https://thediplomat.com/2026/09/chinas-visibility-gap-around-the-trump-xi-summit/",
-      "excerpt": "Xi’s U.S. visit was extensively covered by official outlets. It's much harder to gauge public opinion or even interest.",
-      "publishedAt": "2026-09-25T16:44:00.000Z",
-      "category": "politics",
-      "source": "The Diplomat"
-    },
-    {
-      "sourceId": "the-diplomat",
-      "title": "From Idols to KOICA: South Korea’s Disaster Support for Nepal",
-      "url": "https://thediplomat.com/2026/09/from-idols-to-koica-south-koreas-disaster-support-for-nepal/",
-      "excerpt": "Pop star donations and state aid work together to give Seoul a durable bond with Nepal.",
-      "publishedAt": "2026-09-25T16:54:00.000Z",
       "category": "politics",
       "source": "The Diplomat"
     }
