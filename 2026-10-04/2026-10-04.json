@@ -1,149 +1,149 @@
 {
-  "hero_headline": "Gemini 4 与 GPT-6 亮相，G7 释储平抑油价",
-  "daily_overview": "科技方面，DeepMind 发布 Gemini 4 Argon，OpenAI 推出 GPT-6 家族落地指南，英伟达加速上线 Astra Ultrafast 并以 64GB DGX Spark 推进本地 AI。财经方面，G7 协调释放数百万桶原油与柴油平抑油价，美国就业市场在中期选举前明显降温，Temu 英国销售额翻倍。时政方面，俄军连袭基辅桥梁，巴西大选选情胶着，中国对欧盟启动反倾销调查，贸易与地缘摩擦仍是主线。",
+  "hero_headline": "GPT-6 与 Gemini 4 相继发布，G7 释储稳油价",
+  "daily_overview": "今日技术主线仍是模型竞赛：OpenAI 发布 GPT-6 家族实用指南，并让 GPT-6 Astra Ultrafast 上线 API；DeepMind 推出新一代前沿模型 Gemini 4 Argon；英伟达一边推出 64GB DGX Spark 抢占本地算力，一边向上游材料延伸，投资的磷化铟工厂奠基。财经方面，G7 协调释放数百万桶石油与柴油储备平抑价格，但英国柴油零售价仍首次突破每升 2 英镑；美国就业市场在中期选举前明显放缓，各国储备配置出现从美债转向美股的趋势。时政层面，俄军扩大对基辅桥梁的打击，巴西大选卢拉与博索纳罗民调胶着，中国则在欧盟贸易专员访华前对欧盟发起反倾销调查。",
   "tech_briefs": [
     {
-      "title": "Gemini 4 Argon 正式发布",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "DeepMind Blog",
-      "summary": "DeepMind 发布 Gemini 4 Argon，将其定位为新一代前沿智能模型；TLDR AI 同日把该模型列为头号条目，视为本周模型竞赛的主要变量。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "OpenAI 发布 GPT-6 落地指南",
+      "title": "OpenAI 发布 GPT-6 家族模型使用指南",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI News",
-      "summary": "OpenAI 面向初创团队给出 GPT-6 家族选用与部署指南，涵盖推理强度调节、提示与技能优化、工具协同及生产化流程；英伟达同期称 GPT-6 Astra Ultrafast 已上线 OpenAI API。（多家报道）",
+      "summary": "OpenAI 发布 GPT-6 家族实用指南，涵盖模型选型、推理强度调优、提示词与工具编排；同期 GPT-6 Astra Ultrafast 已在 API 上线，由英伟达 Blackwell GPU 加速。（多家报道）",
       "importance": 9
     },
     {
-      "title": "英伟达推出 64GB 版 DGX Spark",
+      "title": "DeepMind 发布新一代模型 Gemini 4 Argon",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind 推出 Gemini 4 Argon，称其开启前沿智能的新阶段；多家科技简报在同一周跟进该发布，市场关注其在推理与多模态上的实际表现。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "英伟达推出 64GB 版 DGX Spark 本地 AI 设备",
       "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "source": "NVIDIA 官方博客",
-      "summary": "英伟达发布 64GB 显存版 DGX Spark 桌面设备，目标是让开发者在本地运行能力更强的开源模型，承接 AI 智能体从实验走向日常开发的算力需求。",
+      "summary": "英伟达发布 64GB 版 DGX Spark，面向希望在本地运行开源模型与 AI 智能体的开发者，试图把部分推理负载从云端迁回桌面，降低长期使用成本。",
       "importance": 7
     },
     {
-      "title": "英伟达投资的磷化铟工厂奠基",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYkhxSVo1czFHMFV0TWdHT3pnU01Hd09mNGNqR3hJcVNiRnV1LXhoNGhLRDg5R3NrczF3RkVsMnZhNFc0Vy0wcA?oc=5",
-      "source": "Google News · 黄仁勋",
-      "summary": "财联社报道，英伟达参与投资的磷化铟工厂举行奠基仪式，黄仁勋到场执锹。磷化铟是高速光模块与硅光器件的关键材料，此举指向光互连供应链布局。",
-      "importance": 7
-    },
-    {
-      "title": "GitHub 趋势：让智能体少写代码",
+      "title": "GitHub 热榜项目 ponytail 让 AI 代理少写代码",
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending",
-      "summary": "开源项目 ponytail 让 AI 编程智能体像屋里最懒的资深工程师那样思考，主张「能不写的代码就别写」，用最小改动完成任务，以减少过度实现和无谓重构。",
-      "importance": 6
+      "summary": "ponytail 是 GitHub 趋势项目，思路是让 AI 编码代理像「最懒的资深工程师」那样思考：优先复用既有实现、能不写就不写，从而减少冗余代码与无效改动，回应代理生成代码过多的问题。",
+      "importance": 5
+    },
+    {
+      "title": "英伟达投资磷化铟工厂奠基 黄仁勋身家破 2000 亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYkhxSVo1czFHMFV0TWdHT3pnU01Hd09mNGNqR3hJcVNiRnV1LXhoNGhLRDg5R3NrczF3RkVsMnZhNFc0Vy0wcA?oc=5",
+      "source": "Google News · 黄仁勋",
+      "summary": "英伟达投资的磷化铟晶圆厂举行动工仪式，黄仁勋到场；同期英伟达股价创下纪录，其个人净资产突破 2000 亿美元，反映市场对 AI 算力供应链的持续押注。（多家报道）",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "G7 将协调释放数百万桶油品",
+      "title": "G7 将协调释放数百万桶石油与柴油储备",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "七国集团宣布协调释放数百万桶原油与柴油，意在遏制价格进一步飙升，并避免美国出台柴油出口禁令，行动与特朗普的相关威胁直接相关。",
+      "summary": "在美方施压后，G7 同意协调释放数百万桶石油和柴油储备，目标是遏制价格进一步飙升，并避免触发美国柴油出口禁令。",
       "importance": 8
     },
     {
-      "title": "美国就业市场在中期选举前放缓",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "距离中期选举约一个月，美国雇主暂停招聘，失业率小幅上升，就业市场出现明显降温迹象，成为选前经济议题的焦点数据。",
-      "importance": 8
-    },
-    {
-      "title": "英国柴油价格首破每升 2 英镑",
+      "title": "英国柴油零售价首次突破每升 2 英镑",
       "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "英国汽车协会 RAC 数据显示，加油站柴油均价升至每升 200.01 便士的历史高位，国际油价上涨持续向零售端传导，能源账单压力同步上升。（多家报道）",
+      "summary": "英国汽车协会 RAC 数据显示，柴油平均零售价升至每升 200.01 便士的历史高位，国际油价上涨持续向终端消费传导。（多家报道）",
       "importance": 7
     },
     {
-      "title": "Temu 英国销售额翻倍",
+      "title": "美国就业市场在中期选举前明显放缓",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "美国雇主暂停招聘，失业率小幅上升，就业走弱出现在中期选举前一个月，经济议题在选情中的权重随之上升。",
+      "importance": 8
+    },
+    {
+      "title": "Temu 英国销售额翻倍至 1.71 亿美元",
       "url": "https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "Temu 在英国销售额同比增长逾一倍至 1.71 亿美元，报道指其利用了小额包裹免关税的税收漏洞，相关监管争议随之升温。",
-      "importance": 7
+      "summary": "中国电商平台 Temu 在英国的销售额同比增长逾一倍至 1.71 亿美元，报道指其利用了小额包裹免关税的税收漏洞。",
+      "importance": 6
     },
     {
-      "title": "派拉蒙债务下跌，企业借贷趋难",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/paramount-debt-drop-spells-trouble-for-borrowers-credit-weekly",
-      "source": "Bloomberg Markets",
-      "summary": "彭博信用周报指出，派拉蒙债务价格明显下挫，反映企业融资难度上升，信用市场压力正由个案向更广泛的借款人传导。",
+      "title": "各国政府更愿持有美国股票而非国债",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/01/governments-want-to-hold-americas-shares-more-than-its-debts",
+      "source": "The Economist Finance",
+      "summary": "多国储备资产配置从美债转向美股等风险资产，报道认为这一变化会通过汇率与资本流动对全球经济产生连锁影响。",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "俄军再袭基辅大桥，威胁关键通道",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "俄军打击基辅北桥，此前已多次袭击首都另一座主要桥梁。这些桥梁承担通勤与补给功能，是俄方针对基础设施轰炸行动的最新目标。（多家报道）",
+      "title": "俄军转向打击基辅桥梁 威胁首都交通命脉",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+      "source": "NYT World",
+      "summary": "俄军轰炸目标扩展至基辅多处桥梁，这些桥梁是大量通勤者的日常通道，被视为对乌克兰基础设施打击范围的又一次升级。",
       "importance": 8
     },
     {
-      "title": "巴西大选民调：卢拉与对手胶着",
+      "title": "巴西大选投票在即 卢拉与博索纳罗民调胶着",
       "url": "https://www.bloomberg.com/news/articles/2026-10-03/lula-bolsonaro-in-dead-heat-as-brazil-prepares-to-vote",
       "source": "Bloomberg Markets",
-      "summary": "巴西总统选举投票前的最新民调显示，卢拉与右翼挑战者弗拉维奥·博索纳罗支持率难分高下；部分选民亦将本次投票视为对特朗普影响力的表态。（多家报道）",
+      "summary": "巴西周日举行大选，最新民调显示卢拉与右翼候选人弗拉维奥·博索纳罗差距收窄，双方均难首轮过半；部分选民把此次投票视为对特朗普影响力的表态。（多家报道）",
       "importance": 8
     },
     {
-      "title": "中国对欧盟发起反倾销调查",
+      "title": "中国对欧盟发起对硝基甲苯反倾销调查",
       "url": "https://www.dw.com/zh/中欧贸易会谈在即-中国对欧盟发起反倾销调查/a-79531185?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "中国商务部宣布对自欧盟进口的对硝基甲苯发起反倾销调查，距欧盟贸易专员赴京与商务部长王文涛会谈不足一周，中欧贸易摩擦升级风险上升。",
-      "importance": 7
+      "summary": "中国商务部宣布对自欧盟进口的对硝基甲苯发起反倾销调查，距欧盟贸易专员赴京与王文涛会谈不足一周，中欧贸易摩擦升级风险上升。",
+      "importance": 8
     }
   ],
-  "editor_note": "技术端模型迭代与算力本地化同步推进，财经端能源、就业与信用信号偏紧，时政端地缘冲突与贸易摩擦仍是主线，值得持续跟踪。",
+  "editor_note": "模型迭代与算力扩张继续加速，但能源价格与就业数据提醒，宏观约束并未松绑。",
   "keywords": [
-    "Gemini 4",
     "GPT-6",
-    "G7 释储",
+    "Gemini 4 Argon",
+    "英伟达 DGX Spark",
+    "G7 石油储备",
+    "英国柴油价格",
     "美国就业",
-    "俄乌冲突",
     "巴西大选",
-    "中欧贸易",
-    "本地 AI"
+    "中欧贸易"
   ],
   "trading": {
-    "market_overview": "美股方面，SPY 报 769.64，距 52 周高仅 -1.25%，但 MACD 0.8356 已低于信号 0.8931 形成死叉，RSI14 54.5 属中性；QQQ 单日 +1.02%、RSI 65.4，NVDA 单日 +1.34%、5 日 +3.95%，距 52 周高 -1.65%，多头排列完整，权重科技股动能偏强；但 AAPL、META、TSLA 均出现 MACD 死叉，内部分化明显。加密方面，总市值 2.90T 美元、24 小时 -2.23%，恐慌贪婪指数 67 仍处「贪婪」区间，BTC 主导率 58.6%、ETH 11.3%；BTC 报 84750.11、RSI 63.7 且站稳 SMA20/50/200，但 MACD 1938.63 低于信号 2093.37 呈死叉，ETH 与 SOL 同为多头排列、RSI 均在 60 上方。中概为最弱板块，BABA RSI 35.6、PDD 33.4、JD 30.4，均为空头排列并跌破三条均线，0700.HK RSI 40.6 并逼近 52 周低。商品外汇方面，黄金 4162.3、RSI 34.1、空头排列且 5 日 -3.68%；WTI 原油 91.11 仍维持多头排列；美元指数 101.92 RSI 71.7 超买，10Y 美债收益率 5.28% RSI 74.6 超买；VIX 15.31，单日 -6.59%。",
+    "market_overview": "美股方面，标普 500 ETF 现价 769.64，位于 SMA20(764.83)、SMA50(763.7)、SMA200(720.47) 之上并呈多头排列，但 MACD 0.8356 已低于信号 0.8931 形成死叉，RSI14 为 54.5 属中性；纳指 100 ETF 单日 +1.02%、RSI14 65.4、距 52 周高仅 -0.66%，动能相对更强，成分股中英伟达近 5 日 +3.95%、微软 MACD 金叉，而 Alphabet 与 Meta 仍见死叉，个股分歧明显。加密方面，恐慌贪婪指数报 65 属「贪婪」区间，总市值 2.90 万亿美元、24 小时 -2.14%，BTC 主导率 58.6%、ETH 11.3%；比特币 84817.9 位于 SMA20/50/200 之上呈多头排列，RSI14 63.9，但 MACD 1944 已低于信号 2094，以太坊与 Solana 同维持多头排列，RSI14 分别 61 与 64.3。中概股为当日最弱一块，阿里、拼多多、京东、腾讯均处 SMA20 与 SMA200 下方并呈空头排列，RSI14 分别为 35.6、33.4、30.4、40.6，腾讯同时出现「接近 52 周低」信号。商品外汇方面，黄金期货跌 0.95%、近 5 日 -3.68%，收于 SMA20(4334.33) 与 SMA200(4553.37) 下方且空头排列，RSI14 34.1；WTI 原油 91.11 仍高于 SMA200(82.38)，但 MACD 快线低于信号线；美元指数 RSI14 71.7、10 年美债收益率 RSI14 74.6 双双超买并接近 52 周高，美元兑人民币 6.7 逼近 52 周低位、RSI14 34.5。VIX 收 15.31、单日 -6.59%，整体风险偏好指标处于低位。",
     "watchlist": [
-      {
-        "symbol": "NVDA",
-        "display_name": "英伟达 (NVDA)",
-        "stance": "偏上行",
-        "rationale": "现价 233.95，单日 +1.34%、5 日 +3.95%，距 52 周高仅 -1.65%。价格位于 SMA20（223.79）、SMA50（218.28）与 SMA200（200.71）之上，多头排列成立；RSI14 62.9 未进入超买区，MACD 3.4886 高于信号 2.6614 维持红柱，趋势与动量读数同向偏强。"
-      },
       {
         "symbol": "^TNX",
         "display_name": "10Y 美债收益率 (^TNX)",
         "stance": "偏上行",
-        "rationale": "10Y 美债收益率报 5.28%，单日 +0.76%、5 日 +1.79%，距 52 周高 -1.22%。RSI14 74.6 进入超买区，MACD 0.1343 高于信号 0.1163，价格站上 SMA20（5.05）、SMA50（4.83）、SMA200（4.45）呈多头排列，趋势读数偏上行，但超买提示短线过热。"
+        "rationale": "10 年美债收益率现报 5.28，位于 SMA20(5.05)、SMA50(4.83)、SMA200(4.45) 之上，多头排列完整，RSI14 达 74.6 进入超买区，并伴随「接近 52 周高」信号，MACD 0.1343 高于信号线 0.1163，近 5 日上行 1.79%，动量读数持续偏强。"
       },
       {
-        "symbol": "GOOGL",
-        "display_name": "Alphabet (GOOGL)",
+        "symbol": "NVDA",
+        "display_name": "英伟达 (NVDA)",
+        "stance": "偏上行",
+        "rationale": "英伟达现价 233.95，站上 SMA20(223.79)、SMA50(218.28)、SMA200(200.71)，呈多头排列，RSI14 为 62.9 处中性偏强区间，距 52 周高仅 -1.65%，近 1 日 +1.34%、近 5 日 +3.95%，MACD 3.4886 高于信号 2.6614，动量仍在扩张。"
+      },
+      {
+        "symbol": "META",
+        "display_name": "Meta (META)",
         "stance": "中性",
-        "rationale": "现价 343.50，单日 +1.56% 但 5 日 -0.12%，距 52 周高 -15.93%。RSI14 恰为 50，MACD -0.5463 低于信号 -0.3972 维持死叉，价格贴近 SMA20（342.62）且略低于 SMA50（344.37），趋势标记为中性，多空指标缺乏方向共识。"
+        "rationale": "Meta 现价 728.08，明显高于 SMA20(695.92)、SMA50(625.04) 与 SMA200(628.38)，中长期结构未破，但 MACD 34.3132 已低于信号 35.0827 形成死叉，近 5 日 -3.14%，RSI14 61.5 自高位回落，趋势字段为中性，多空读数未形成一致方向。"
       },
       {
-        "symbol": "BABA",
-        "display_name": "阿里巴巴 (BABA)",
+        "symbol": "JD",
+        "display_name": "京东 (JD)",
         "stance": "偏下行",
-        "rationale": "现价 105.85，单日 -1.49%、5 日 -3.54%，距 52 周高 -44.17%。RSI14 35.6 偏弱，MACD -2.3886 低于信号 -2.1837 处死叉状态，价格同时低于 SMA20（110.07）、SMA50（116.87）与 SMA200（130.93），空头排列，趋势读数全面偏下行。"
+        "rationale": "京东现价 25.78，低于 SMA20(26.93)、SMA50(29.01) 与 SMA200(28.89)，趋势字段为中性但结构偏弱，RSI14 仅 30.4 逼近超卖区，MACD -0.6614 略低于信号 -0.6602 呈死叉，近 1 日 -2.24%、近 5 日 -2.75%，距 52 周高 -28.67%。"
       },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货 (GC=F)",
         "stance": "偏下行",
-        "rationale": "黄金期货报 4162.3，单日 -0.95%、5 日 -3.68%，距 52 周高 -25.49%。RSI14 34.1 接近超卖，MACD -63.4969 明显低于信号 -38.6231，绿柱状态延续；价格位于 SMA20（4334.33）、SMA50（4366.27）、SMA200（4553.37）之下，空头排列，动量偏弱。"
+        "rationale": "黄金期货现价 4162.3，低于 SMA20(4334.33)、SMA50(4366.27) 与 SMA200(4553.37)，呈空头排列，MACD -63.4969 明显低于信号 -38.6231，绿柱扩张，RSI14 34.1 接近超卖，近 1 日 -0.95%、近 5 日 -3.68%，距 52 周高 -25.49%。"
       }
     ],
-    "risk_caveat": "本报告仅基于公开行情数据计算出的技术指标读数作客观复述，不构成任何投资建议或买卖依据。过去走势不代表未来表现，指标状态可能随时变化。仅供技术指标解读参考。",
+    "risk_caveat": "以上内容仅为基于公开行情数据的技术指标读数描述，不构成任何投资建议。过去走势不代表未来表现，指标信号可能随时反转，请结合自身风险承受能力独立判断；本报告仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -397,18 +397,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 84750.11,
-        "pct1Day": 0.29929871021075743,
-        "pct5Day": 1.493966038112208,
-        "pct52WeekHigh": -32.8435767678539,
-        "pct52WeekLow": 46.75911445647957,
-        "sma20": 82441.188671875,
-        "sma50": 78558.38953125,
-        "sma200": 71425.375078125,
-        "rsi14": 63.69046927060772,
-        "macd": 1938.6321614173794,
-        "macdSignal": 2093.3711607383793,
-        "macdHistogram": -154.73899932099994,
+        "currentPrice": 84817.9,
+        "pct1Day": 0.3795262103233183,
+        "pct5Day": 1.5751491298830973,
+        "pct52WeekHigh": -32.7898596230513,
+        "pct52WeekLow": 46.87650427897071,
+        "sma20": 82444.578125,
+        "sma50": 78559.7453125,
+        "sma200": 71425.7140234375,
+        "rsi14": 63.89183753187543,
+        "macd": 1944.0398359195678,
+        "macdSignal": 2094.45269563977,
+        "macdHistogram": -150.41285972020205,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -429,18 +429,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2686.58,
-        "pct1Day": 0.6906983938780877,
-        "pct5Day": -0.07768533069785422,
-        "pct52WeekHigh": -43.50250882188417,
-        "pct52WeekLow": 78.33188417408577,
-        "sma20": 2637.30380859375,
-        "sma50": 2484.0752270507815,
-        "sma200": 2115.807883300781,
-        "rsi14": 60.500490926814244,
-        "macd": 66.46506617119167,
-        "macdSignal": 78.0748822997073,
-        "macdHistogram": -11.609816128515632,
+        "currentPrice": 2692.15,
+        "pct1Day": 0.8994571838839381,
+        "pct5Day": 0.1294803940183386,
+        "pct52WeekHigh": -43.385374388566674,
+        "pct52WeekLow": 78.70157835415192,
+        "sma20": 2637.5822998046874,
+        "sma50": 2484.1866235351563,
+        "sma200": 2115.835732421875,
+        "rsi14": 60.98486782674705,
+        "macd": 66.90938263312364,
+        "macdSignal": 78.1637455921412,
+        "macdHistogram": -11.254362959017556,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -456,18 +456,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 119.73,
-        "pct1Day": 0.9398944782327621,
-        "pct5Day": 0.7516775627997883,
-        "pct52WeekHigh": -49.54967193592315,
-        "pct52WeekLow": 98.18017860547893,
-        "sma20": 114.08709182739258,
-        "sma50": 103.77188446044921,
-        "sma200": 85.79205265045167,
-        "rsi14": 63.85325758703929,
-        "macd": 5.0248702191267824,
-        "macdSignal": 5.4331213243503855,
-        "macdHistogram": -0.4082511052236031,
+        "currentPrice": 120.07,
+        "pct1Day": 1.2265357888700128,
+        "pct5Day": 1.0377843895879855,
+        "pct52WeekHigh": -49.406406993621424,
+        "pct52WeekLow": 98.7429553592237,
+        "sma20": 114.10409164428711,
+        "sma50": 103.77868438720704,
+        "sma200": 85.7937526321411,
+        "rsi14": 64.26376191822234,
+        "macd": 5.051992434119782,
+        "macdSignal": 5.438545767354792,
+        "macdHistogram": -0.3865533332350095,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -799,19 +799,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 67,
+      "value": 65,
       "classification": "Greed",
       "classificationCn": "贪婪",
-      "timestamp": "2026-10-03T00:00:00.000Z"
+      "timestamp": "2026-10-04T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2898940658514.8413,
-      "total24hVolumeUsd": 45960761567.0163,
-      "marketCapChangePct24h": -2.2315692396610314,
-      "btcDominance": 58.61459136758981,
-      "ethDominance": 11.290805364180569,
+      "totalMarketCapUsd": 2903419571123.4985,
+      "total24hVolumeUsd": 46047323512.73283,
+      "marketCapChangePct24h": -2.140590973018753,
+      "btcDominance": 58.606083832297195,
+      "ethDominance": 11.301995880159808,
       "activeCryptocurrencies": 21818
     },
-    "generated_at": "2026-10-03T23:19:04.763Z"
+    "generated_at": "2026-10-04T00:35:14.606Z"
   }
 }
